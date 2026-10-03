@@ -1,0 +1,314 @@
+original_term,cleaned_candidate,meddra_code,meddra_preferred_term
+decreased appetite up to loss of appetite,decreased appetite up to loss of appetite,0,
+injuries from accidents,injuries from accidents,0,
+altered mood and personality change,altered mood and personality change,10027940,Mood altered
+"hepatic enzymes increased (alanine aminotransferase increased, gamma-glutamyltransferase increased)",hepatic enzymes increased,10060795,Hepatic enzyme increased
+transient stinging and burning,transient stinging and burning,0,
+encephalopathy including posterior reversible encephalopathy syndrome (pres),encephalopathy including posterior reversible encephalopathy syndrome,10014625,Encephalopathy
+"signs and symptoms such as convulsions, confusion, disorientation, decreased responsiveness, agitation, insomnia, visual disturbances, cortical blindness, coma, paresis and cerebellar ataxia","signs and symptoms such as convulsions, confusion, disorientation, decreased responsiveness, agitation, insomnia, visual disturbances, cortical blindness, coma, paresis and cerebellar ataxia",0,
+"optic disc oedema, including papilloedema, with possible visual impairment secondary to benign intracranial hypertension","optic disc oedema, including papilloedema, with possible visual impairment secondary to benign intracranial hypertension",10092579,Optic disc oedema
+abdominal discomfort/pain,abdominal discomfort/pain,10000059,Abdominal discomfort
+"hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure","hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure",10019851,Hepatotoxicity
+"infections (viral, bacterial, fungal, parasitic)",infections,10021789,Infection
+lymphomas or lymphoproliferative disorders and other malignancies,lymphomas or lymphoproliferative disorders and other malignancies,10025310,Lymphoma
+positive antinuclear antibodies unassociated with disease,positive antinuclear antibodies unassociated with disease,0,
+"hypersensitivity (rash, pruritus, angioedema and dyspnoea)",hypersensitivity,10020751,Hypersensitivity
+depressed mood and lethargy,depressed mood and lethargy,10012374,Depressed mood
+exacerbation of the symptoms of raynaud's syndrome,exacerbation of the symptoms of raynaud's syndrome,0,
+increase of an existing intermittent claudication,increase of an existing intermittent claudication,0,
+cold or cyanotic extremities,cold or cyanotic extremities,10009851,Cold
+jaundice (both hepatocellular and cholestatic),jaundice,10023126,Jaundice
+tingling sensation in scalp,tingling sensation in scalp,0,
+reversible lichenoid rash,reversible lichenoid rash,0,
+paraesthesia of the extremities,paraesthesia of the extremities,0,
+systemic lupus erythematous,systemic lupus erythematous,0,
+ejaculatory failure,ejaculatory failure,0,
+masking of the symptoms of thyrotoxicosis or hypoglycaemia,masking of the symptoms of thyrotoxicosis or hypoglycaemia,0,
+inappropriate adh secretion like syndrome,inappropriate adh secretion like syndrome,0,
+drug rash with eosinophilia and systemic symptoms (dress),drug rash with eosinophilia and systemic symptoms,10058919,Drug rash with eosinophilia and systemic symptoms
+acute generalized exanthematous pustulosis (agep),acute generalized exanthematous pustulosis,10048799,Acute generalised exanthematous pustulosis
+toxic epidermal necrolysis (lyell's syndrome),toxic epidermal necrolysis,10044223,Toxic epidermal necrolysis
+decreased bone mineral density,decreased bone mineral density,0,
+decrease in t4,decrease in t4,10043062,T4 decreased
+moderately reduced weight and height gain during prolonged use in children,moderately reduced weight and height gain during prolonged use in children,0,
+worsening of pre-existing tics or tourette's syndrome,worsening of pre-existing tics or tourette's syndrome,0,
+transient depressed mood,transient depressed mood,0,
+thought disturbances,thought disturbances,10043434,Thinking disturbances
+choreo-athetoid movements,choreo-athetoid movements,0,
+difficulties in visual accommodation,difficulties in visual accommodation,0,
+hepatic enzyme elevations,hepatic enzyme elevations,0,
+erection increased and prolonged,erection increased and prolonged,10015120,Erection increased
+changes in blood pressure and heart rate,changes in blood pressure and heart rate,10008393,Change in blood pressure
+"hypersensitivity / anaphylactoid reaction (e.g. shock*, hypotension, pharyngolaryngeal edema, urticaria, face edema, rhinitis, conjunctivitis, abdominal pain, hypoesthesia, sneezing, cough, pallor)",hypersensitivity / anaphylactoid reaction,10020751,Hypersensitivity
+"respiratory disorders (dyspnea*, respiratory distress)",respiratory disorders,10038683,Respiratory disorder
+injection site reactions (various kinds)***,injection site reactions***,10022095,Injection site reaction
+delayed allergoid reactions,delayed allergoid reactions,0,
+hypotension (and effects related to hypotension),hypotension,10021097,Hypotension
+agranulocytosis or pancytopenia,agranulocytosis or pancytopenia,10001507,Agranulocytosis
+haemoglobin decreased and haematocrit decreased,haemoglobin decreased and haematocrit decreased,10018884,Haemoglobin decreased
+leucopenia/neutropenia,leucopenia/neutropenia,10024384,Leukopenia
+haemolytic anaemia in patients with a congenital deficiency of g-6pdh,haemolytic anaemia in patients with a congenital deficiency of g-6pdh,0,
+syndrome of inappropriate antidiuretic hormone secretion (siadh),syndrome of inappropriate antidiuretic hormone secretion,10087107,Syndrome of inappropriate antidiuretic hormone secretion
+"hyperkalaemia, reversible on discontinuation","hyperkalaemia, reversible on discontinuation",0,
+"myocardial infarction, possibly secondary to excessive hypotension in high risk patients","myocardial infarction, possibly secondary to excessive hypotension in high risk patients",0,
+stroke possibly secondary to excessive hypotension in high-risk patients,stroke possibly secondary to excessive hypotension in high-risk patients,0,
+hepatitis either cytolitic or cholestatic,hepatitis either cytolitic or cholestatic,0,
+"angioedema of face, extremities, lips, mucous membranes, tongue, glottis and/or larynx","angioedema of face, extremities, lips, mucous membranes, tongue, glottis and/or larynx",0,
+hyperhydrosis,hyperhydrosis,0,
+anuria/oliguria,anuria/oliguria,10002847,Anuria
+local sensitivity,local sensitivity,0,
+itching (pruritus),itching,10023084,Itching
+withdrawal (discontinuation) symptoms,withdrawal symptoms,10073281,Withdrawal symptom
+elevations in serum triglyceride levels,elevations in serum triglyceride levels,0,
+elevations in total cholesterol (predominantly ldl cholesterol),elevations in total cholesterol,0,
+decreases in hdl cholesterol,decreases in hdl cholesterol,10019185,HDL cholesterol decreased
+severe cutaneous adverse reactions (scars),severe cutaneous adverse reactions,10085778,Severe cutaneous adverse reaction
+stevens-johnson syndrome (sjs),stevens-johnson syndrome,10042033,Stevens-Johnson syndrome
+toxic epidermal necrolysis (ten),toxic epidermal necrolysis,10044223,Toxic epidermal necrolysis
+drug reaction with eosinophilia and systemic symptoms (dress),drug reaction with eosinophilia and systemic symptoms,10073508,Drug reaction with eosinophilia and systemic symptoms
+hypersensitivity (including allergic skin reactions),hypersensitivity,10020751,Hypersensitivity
+decreases in total t4,decreases in total t4,0,
+decreases in free t4,decreases in free t4,10051884,Free T4 decreased
+decreases in total t3,decreases in total t3,0,
+increases in tsh,increases in tsh,10044718,TSH increased
+decreases in free t3,decreases in free t3,0,
+blood glucose increased to hyper-glycaemic levels,blood glucose increased to hyper-glycaemic levels,0,
+exacerbation of pre-existing diabetes,exacerbation of pre-existing diabetes,0,
+abnormal dreams and nightmares,abnormal dreams and nightmares,10000125,Abnormal dreams
+suicidal ideation and suicidal behaviour,suicidal ideation and suicidal behaviour,10042458,Suicidal ideation
+somnambulism and related reactions such as sleep talking and sleep related eating disorder,somnambulism and related reactions such as sleep talking and sleep related eating disorder,10041347,Somnambulism
+intestinal obstruction/ ileus,intestinal obstruction/ ileus,10022687,Intestinal obstruction
+elevations in serum alanine aminotransferase (alt),elevations in serum alanine aminotransferase,0,
+elevations in gamma-gt levels,elevations in gamma-gt levels,0,
+elevations in serum aspartate aminotransferase (ast),elevations in serum aspartate aminotransferase,0,
+elevations in blood creatine phosphorkinase,elevations in blood creatine phosphorkinase,0,
+exacerbation of pancreatitis,exacerbation of pancreatitis,0,
+drug withdrawal (abstinence) syndrome neonatal,drug withdrawal syndrome neonatal,10013756,Drug withdrawal syndrome neonatal
+bullous reactions,bullous reactions,0,
+"erythema multiforme, toxic epidermal necrolysis (ten), stevens-johnson syndrome (sjs)","erythema multiforme, toxic epidermal necrolysis, stevens-johnson syndrome",0,
+non-specific pain,non-specific pain,0,
+"fracture of the hip, wrist or spine","fracture of the hip, wrist or spine",0,
+tubulointerstitial nephritis (with possible progression to renal failure),tubulointerstitial nephritis,10048302,Tubulointerstitial nephritis
+serious skin reactions,serious skin reactions,0,
+acute generalised exanthematous pustulosis (agep),acute generalised exanthematous pustulosis,10048799,Acute generalised exanthematous pustulosis
+masking of symptoms of infection,masking of symptoms of infection,0,
+opioid tolerance,opioid tolerance,0,
+opioid withdrawal syndrome,opioid withdrawal syndrome,0,
+drug reaction with eosinophilia and systemic symptoms (dress syndrome),drug reaction with eosinophilia and systemic symptoms,10073508,Drug reaction with eosinophilia and systemic symptoms
+non-specific allergic reaction,non-specific allergic reaction,0,
+exfoliative and bullous dermatoses,exfoliative and bullous dermatoses,0,
+immediate and delayed hypersensitivity reactions,immediate and delayed hypersensitivity reactions,0,
+signs and symptoms of systemic corticosteroid effects,signs and symptoms of systemic corticosteroid effects,0,
+behavioural changes,behavioural changes,0,
+signs and symptoms of systemic allergic reactions,signs and symptoms of systemic allergic reactions,0,
+signs and symptoms of allergic reactions,signs and symptoms of allergic reactions,0,
+increase in signs and symptoms of myasthenia gravis,increase in signs and symptoms of myasthenia gravis,0,
+burning and stinging,burning and stinging,10006634,Burn
+irritation including redness,irritation including redness,0,
+ocular hypotony,ocular hypotony,0,
+signs and symptoms of ocular irritation,signs and symptoms of ocular irritation,0,
+cold hands and feet,cold hands and feet,10009861,Cold hands & feet
+asthenia/ fatigue,asthenia/ fatigue,10003549,Asthenia
+severe neutropenia,severe neutropenia,0,
+neutropaenia,neutropaenia,10029354,Neutropenia
+peripheral vision loss,peripheral vision loss,0,
+increases in heart rate,increases in heart rate,10019303,Heart rate increased
+increases in systolic blood pressure,increases in systolic blood pressure,10005760,Blood pressure systolic increased
+increases in diastolic blood pressure,increases in diastolic blood pressure,10005739,Blood pressure diastolic increased
+suicide-related events,suicide-related events,0,
+raynaudʼs phenomenon,raynaudʼs phenomenon,10037912,Raynaud's phenomenon
+abnormal/increased liver function tests,abnormal/increased liver function tests,0,
+pollakuria,pollakuria,0,
+micturation urgency,micturation urgency,0,
+drowsiness/sleepiness,drowsiness/sleepiness,10013649,Drowsiness
+dizziness/disorientation,dizziness/disorientation,10013573,Dizziness
+syncope (fainting),syncope,10042772,Syncope
+edema of the oral mucosa,edema of the oral mucosa,0,
+gram positive (mucocutaneous) bacterial infection,gram positive bacterial infection,10053021,Gram-positive bacterial infection
+aggressive tendencies,aggressive tendencies,0,
+colour blindness (colour vision deficiencies),colour blindness,10010050,Colour blindness
+skin fragility (risk of frictional trauma),skin fragility,10040851,Skin fragility
+acne aggravated (acne flare),acne aggravated,10000498,Acne aggravated
+calcinosis (calcification of ligaments and tendons),calcinosis,10006938,Calcinosis
+reduced bone density,reduced bone density,0,
+sexual dysfunction including erectile dysfunction and decreased libido,sexual dysfunction including erectile dysfunction and decreased libido,10040477,Sexual dysfunction
+granulation tissue (increased formation of),granulation tissue,10018675,Granulation tissue
+hypersensitivity or allergic reactions,hypersensitivity or allergic reactions,10020751,Hypersensitivity
+burning and stinging at the infusion site,burning and stinging at the infusion site,10006634,Burn
+tightness of the chest,tightness of the chest,10008492,Chest tightness
+severe anaphylaxis,severe anaphylaxis,0,
+elevated prolactin,elevated prolactin,0,
+triglyceride levels,triglyceride levels,0,
+transient asymptomatic elevations of hepatic aminotransferases,transient asymptomatic elevations of hepatic aminotransferases,0,
+high creatine phosphokinase,high creatine phosphokinase,0,
+development or exacerbation of diabetes,development or exacerbation of diabetes,0,
+discontinuation symptoms,discontinuation symptoms,0,
+qt c prolongation,qt c prolongation,0,
+ventricular tachycardia/fibrillation,ventricular tachycardia/fibrillation,10047302,Ventricular tachycardia
+"mild, transient anticholinergic effects","mild, transient anticholinergic effects",0,
+gynecomastia/breast enlargement,gynecomastia/breast enlargement,10018800,Gynaecomastia
+elevated plasma prolactin levels,elevated plasma prolactin levels,0,
+worsening of parkinsonian symptomatology,worsening of parkinsonian symptomatology,0,
+discomfort in the leg,discomfort in the leg,10054246,Leg discomfort
+discomfort in the arm,discomfort in the arm,10049877,Arm discomfort
+discomfort in the back,discomfort in the back,10003982,Back discomfort
+feeling of general discomfort,feeling of general discomfort,0,
+nipple discomfort,nipple discomfort,0,
+chest pain or pressure,chest pain or pressure,10008479,Chest pain
+feeling of thoracic constriction/oppression,feeling of thoracic constriction/oppression,0,
+jaw discomfort,jaw discomfort,0,
+gamma-glutamyl transferase increased,gamma-glutamyl transferase increased,0,
+serious opportunistic infections,serious opportunistic infections,0,
+excessive bradycardia,excessive bradycardia,0,
+hearing disturbances,hearing disturbances,0,
+proarrythmia,proarrythmia,0,
+bradycardia (<50 bpm),bradycardia,10006093,Bradycardia
+cold and cyanotic extremities,cold and cyanotic extremities,10009851,Cold
+increase in existing intermittent claudication,increase in existing intermittent claudication,0,
+congenital malformations and developmental disorders,congenital malformations and developmental disorders,0,
+severe liver damage,severe liver damage,0,
+increased liver enzymes,increased liver enzymes,0,
+reversible parkinsonism,reversible parkinsonism,0,
+reversible dementia,reversible dementia,0,
+reversible cerebral atrophy,reversible cerebral atrophy,0,
+syndrome of inappropriate secretion of adh (siadh),syndrome of inappropriate secretion of adh,0,
+male pattern alopecia,male pattern alopecia,0,
+transient and/or dose related alopecia,transient and/or dose related alopecia,0,
+nail and nail bed disorders,nail and nail bed disorders,0,
+drug rash with eosinophilia and systemic symptoms (dress) syndrome,drug rash with eosinophilia and systemic symptoms syndrome,10062948,Drug rash
+reversible fanconi syndrome,reversible fanconi syndrome,0,
+non-severe peripheral oedema,non-severe peripheral oedema,0,
+bone mineral density decreased,bone mineral density decreased,0,
+acquired pelger-huet anomaly,acquired pelger-huet anomaly,0,
+severe skin reactions,severe skin reactions,0,
+neuropsychiatric adverse reactions,neuropsychiatric adverse reactions,0,
+severe depression,severe depression,0,
+death by suicide,death by suicide,0,
+psychosis-like behaviour,psychosis-like behaviour,0,
+proximal renal tubulopathy,proximal renal tubulopathy,0,
+severe acute exacerbations of hepatitis,severe acute exacerbations of hepatitis,0,
+cerebellar coordination and balance disturbances,cerebellar coordination and balance disturbances,0,
+elevated amylase,elevated amylase,0,
+elevated serum lipase,elevated serum lipase,0,
+elevated aspartate aminotransferase (ast),elevated aspartate aminotransferase,0,
+elevated alanine aminotransferase (alt),elevated alanine aminotransferase,0,
+elevated gamma- glutamyltransferase (ggt),elevated gamma- glutamyltransferase,0,
+photoallergic dermatitis,photoallergic dermatitis,0,
+elevated creatine kinase,elevated creatine kinase,0,
+reversible leucopenia (including severe neutropenia or agranulocytosis),reversible leucopenia,0,
+reversible thrombocytopenia,reversible thrombocytopenia,0,
+prolongation of bleeding time,prolongation of bleeding time,0,
+severe allergic reactions,severe allergic reactions,0,
+antibiotic associated colitis (including pseudomembraneous colitis and haemorrhagic colitis),antibiotic associated colitis,10052815,Antibiotic associated colitis
+a moderate rise in ast and/or alt,a moderate rise in ast and/or alt,0,
+bullous and exfoliative dermatitis,bullous and exfoliative dermatitis,0,
+crystalluria (including acute renal injury),crystalluria,10011509,Crystalluria
+urinary retention (including feeling of residual urine; micturition disorder),urinary retention,10046555,Urinary retention
+"application site reaction (including rash, erythema, pruritus, dermatitis, dryness, and skin irritation)",application site reaction,10003055,Application site reaction
+blood triglycerides increased/hypertriglyceridaemia,blood triglycerides increased/hypertriglyceridaemia,10005839,Blood triglycerides increased
+hot flushes (vasodilation),hot flushes,10060800,Hot flush
+balding (alopecia),balding,0,
+libido changes,libido changes,0,
+elevated haematocrit,elevated haematocrit,0,
+red blood cell count increased or elevated haemoglobin,red blood cell count increased or elevated haemoglobin,10038155,Red blood cell count increased
+"electrolyte changes (retention of sodium, chloride, potassium, calcium, inorganic phosphate and water)",electrolyte changes,0,
+jaundice and liver function test abnormalities,jaundice and liver function test abnormalities,10023126,Jaundice
+facial oedema,facial oedema,0,
+haemoglobin and in haematocrit decreased,haemoglobin and in haematocrit decreased,10018876,Haemoglobin
+"thrombocytopenia, sometimes with purpura","thrombocytopenia, sometimes with purpura",0,
+"arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation)",arrhythmias,10003119,Arrhythmia
+"abdominal discomfort, abdominal pain upper","abdominal discomfort, abdominal pain upper",0,
+"liver function test abnormal, including blood bilirubin increase","liver function test abnormal, including blood bilirubin increase",10024690,Liver function test abnormal
+"intrahepatic cholestasis, jaundice","intrahepatic cholestasis, jaundice",0,
+urticaria and other forms of rash,urticaria and other forms of rash,10046735,Urticaria
+quincke oedema,quincke oedema,10037734,Quincke's edema
+"discomfort, malaise","discomfort, malaise",0,
+increased bleeding tendency,increased bleeding tendency,0,
+hypersensitivity reactions including anaphylaxis,hypersensitivity reactions including anaphylaxis,10020756,Hypersensitivity reaction
+dream abnormalities including nightmares,dream abnormalities including nightmares,0,
+agitation including aggressive behaviour or hostility,agitation including aggressive behaviour or hostility,10001497,Agitation
+"psychomotor hyperactivity (including irritability, restlessness, tremor","psychomotor hyperactivity (including irritability, restlessness, tremor",0,
+suicidal thinking and behaviour (suicidality),suicidal thinking and behaviour,0,
+paraesthesia/hypoesthesia,paraesthesia/hypoesthesia,10033775,Paraesthesia
+churg-strauss syndrome (css),churg-strauss syndrome,10009164,Churg Strauss syndrome
+"elevated levels of serum transaminases (alt, ast)",elevated levels of serum transaminases,0,
+"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)",hepatitis,10019717,Hepatitis
+angiooedema,angiooedema,10002424,Angioedema
+muscular cramps,muscular cramps,0,
+asthenia/fatigue,asthenia/fatigue,10003549,Asthenia
+ejaculation disorders including retrograde ejaculation and ejaculation failure,ejaculation disorders including retrograde ejaculation and ejaculation failure,10014326,Ejaculation disorder
+acute urinary retention,acute urinary retention,0,
+intraoperative floppy iris syndrome (ifis),intraoperative floppy iris syndrome,10065999,Intraoperative floppy iris syndrome
+anaphylactic or anaphylactoid shock,anaphylactic or anaphylactoid shock,0,
+hypersensitivity reaction followed by cardiac reactions (kounis' syndrome),hypersensitivity reaction followed by cardiac reactions,0,
+cardiac or cardio-respiratory arrest,cardiac or cardio-respiratory arrest,0,
+sjs-like syndrome,sjs-like syndrome,0,
+sensory abnormalities including taste disturbance,sensory abnormalities including taste disturbance,0,
+transient contrast-induced encephalopathy caused by extravasation of contrast media,transient contrast-induced encephalopathy caused by extravasation of contrast media,0,
+transient speech disorder,transient speech disorder,0,
+spasm of coronary arteries,spasm of coronary arteries,10011088,Coronary artery spasm
+abdominal pain/discomfort,abdominal pain/discomfort,10000081,Abdominal pain
+rash or drug eruption,rash or drug eruption,10037844,Rash
+bullous or exfoliative dermatitis,bullous or exfoliative dermatitis,0,
+acute kidney injury or nephropathy toxic (cin),acute kidney injury or nephropathy toxic,10069339,Acute kidney injury
+shivering (chills),shivering,10040558,Shivering
+administration site reactions including extravasation,administration site reactions including extravasation,10001315,Administration site reaction
+"asthenic conditions (e.g. malaise, fatigue)",asthenic conditions,10003550,Asthenic conditions
+meningeal irritation giving photophobia and meningism,meningeal irritation giving photophobia and meningism,0,
+frank chemical meningitis,frank chemical meningitis,0,
+anaphylactic/anaphylactoid reactions,anaphylactic/anaphylactoid reactions,0,
+anaphylactic/anaphylactoid reaction including life-threatening or fatal anaphylaxis,anaphylactic/anaphylactoid reaction including life-threatening or fatal anaphylaxis,0,
+transient hypothyroidism,transient hypothyroidism,0,
+headache (may be severe and lasting),headache,10019211,Headache
+methaemoglobinaemina,methaemoglobinaemina,0,
+gastric distress,gastric distress,0,
+aggravation of ulcerative colitis,aggravation of ulcerative colitis,0,
+epidermal necrolysis (lyell's syndrome),epidermal necrolysis,10014986,Epidermal necrolysis
+photosensitvity,photosensitvity,0,
+reversible oligospermia,reversible oligospermia,0,
+facial edema,facial edema,0,
+yellow discoloration of skin and body fluids,yellow discoloration of skin and body fluids,0,
+elevation of liver enzymes,elevation of liver enzymes,0,
+induction of autoantibodies,induction of autoantibodies,0,
+hypersentivity,hypersentivity,0,
+brochospasm,brochospasm,0,
+assorted skin disorders,assorted skin disorders,0,
+rashes of various types,rashes of various types,0,
+pruritis,pruritis,0,
+bullous dermatoses,bullous dermatoses,10012519,Dermatosis bullous
+candida infections including oral candidiasis,candida infections including oral candidiasis,10074170,Candida infection
+dysgeusia (taste disturbance),dysgeusia,10013911,Dysgeusia
+abdominal distention,abdominal distention,10000060,Abdominal distension
+"hypersensitivity reactions (anaphylaxis, angioneurotic oedema, bronchospasm)",hypersensitivity reactions,10020756,Hypersensitivity reaction
+loss of appetite (anorexia),loss of appetite,0,
+reduced libido,reduced libido,0,
+grand mal seizures (particularly in patients with impaired renal function),grand mal seizures,10039909,Seizure grand mal
+atrioventricular block (with h 2 -receptor antagonists administered intravenously),atrioventricular block,10003671,Atrioventricular block
+qt prolongation (especially in patients with impaired renal function),qt prolongation,0,
+"interstitial pneumonia, sometimes fatal","interstitial pneumonia, sometimes fatal",0,
+nausea and/ or vomiting,nausea and/ or vomiting,10028813,Nausea
+abdominal discomfort or distension,abdominal discomfort or distension,10000059,Abdominal discomfort
+stevens-johnson syndrome / toxic epidermal necrolysis (sometimes fatal),stevens-johnson syndrome / toxic epidermal necrolysis,10042033,Stevens-Johnson syndrome
+chest tighness,chest tighness,0,
+"increase in laboratory values (transaminases, gamma gt, alkaline phosphatase, bilirubin).",increase in laboratory values.,0,
+increase in appetite,increase in appetite,10021654,Increased appetite
+"bone marrow depression (granulocytopenia, agranulocytosis, aplastic anaemia, thrombocytopenia)",bone marrow depression,10005986,Bone marrow depression
+hyperprolactinemia (and related symptoms galactorrhea and gynecomastia),hyperprolactinemia,10020737,Hyperprolactinaemia
+"psychomotor restlessness (incl. akathisia, hyperkinesia)",psychomotor restlessness,10037212,Psychomotor restlessness
+oral hypo-aesthesia,oral hypo-aesthesia,0,
+elevations in serum transaminase activities,elevations in serum transaminase activities,0,
+convulsions (insults),convulsions,10010904,Convulsion
+sweating (including night sweats),sweating,10042661,Sweating
+pancytopaenia*,pancytopaenia*,10033661,Pancytopenia
+neutropaenia*,neutropaenia*,10029354,Neutropenia
+thrombocytopaenia*,thrombocytopaenia*,10043554,Thrombocytopenia
+suicidal ideation and suicidal behaviours a,suicidal ideation and suicidal behaviours,10042458,Suicidal ideation
+aggression b,aggression,10001488,Aggression
+dyskinaesia*,dyskinaesia*,0,
+neuroleptic malignant syndrome (nms)*,neuroleptic malignant syndrome*,10029282,Neuroleptic malignant syndrome
+tardive dyskinaesia*,tardive dyskinaesia*,0,
+"accommodation disorder, including vision blurred","accommodation disorder, including vision blurred",10000389,Accommodation disorder
+stress cardiomyopathy (takotsubo cardiomyopathy)*,stress cardiomyopathy*,10066286,Stress cardiomyopathy
+hyperhidrosis* (including night sweats),hyperhidrosis*,10020642,Hyperhidrosis
+"urinary hesitation), urinary retention, pollakiuria*","urinary hesitation), urinary retention, pollakiuria*",0,
+decrease in neutrophil count,decrease in neutrophil count,10029366,Neutrophil count decreased

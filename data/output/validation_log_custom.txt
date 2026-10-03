@@ -1,0 +1,2 @@
+File: C:\Users\Costello\OneDrive\Υπολογιστής\PtixiakiProject\data\output\pilot_knowledge_graph_custom.ttl
+Result: VALID — 35939 triples parsed successfully. Occurrences checked: 3413.

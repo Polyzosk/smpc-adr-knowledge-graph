@@ -1,0 +1,101 @@
+@prefix : <http://example.org/pilot-smpc-kg#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/pilot-smpc-kg> rdf:type owl:Ontology ;
+    rdfs:label "SmPC Pilot ADR Knowledge Graph (Custom Ontology)"@en .
+
+#################################################################
+#    Classes
+#################################################################
+
+:Drug rdf:type owl:Class ;
+    rdfs:label "Drug"@en .
+
+:AdverseDrugReaction rdf:type owl:Class ;
+    rdfs:label "Adverse Drug Reaction"@en .
+
+:DrugAdrOccurrence rdf:type owl:Class ;
+    rdfs:label "Drug ADR Occurrence"@en .
+
+:SmPCDocument rdf:type owl:Class ;
+    rdfs:label "SmPC document"@en .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+:hasOccurrence rdf:type owl:ObjectProperty ;
+    rdfs:domain :Drug ;
+    rdfs:range :DrugAdrOccurrence ;
+    rdfs:label "has occurrence"@en .
+
+:occurrenceOfAdr rdf:type owl:ObjectProperty ;
+    rdfs:domain :DrugAdrOccurrence ;
+    rdfs:range :AdverseDrugReaction ;
+    rdfs:label "occurrence of ADR"@en .
+
+:refersToSmPC rdf:type owl:ObjectProperty ;
+    rdfs:domain :DrugAdrOccurrence ;
+    rdfs:range :SmPCDocument ;
+    rdfs:label "refers to SmPC"@en .
+
+#################################################################
+#    Datatype Properties
+#################################################################
+
+:productId rdf:type owl:DatatypeProperty ;
+    rdfs:label "product id"@en ;
+    rdfs:range xsd:string .
+
+:drugLabel rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Drug ;
+    rdfs:range xsd:string ;
+    rdfs:label "drug label"@en .
+
+:atcCode rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Drug ;
+    rdfs:range xsd:string ;
+    rdfs:label "ATC code"@en .
+
+:activeIngredient rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Drug ;
+    rdfs:range xsd:string ;
+    rdfs:label "active ingredient"@en .
+
+:adrLabel rdf:type owl:DatatypeProperty ;
+    rdfs:domain :AdverseDrugReaction ;
+    rdfs:range xsd:string ;
+    rdfs:label "ADR label"@en .
+
+:meddraPreferredTerm rdf:type owl:DatatypeProperty ;
+    rdfs:domain :AdverseDrugReaction ;
+    rdfs:range xsd:string ;
+    rdfs:label "MedDRA preferred term"@en .
+
+:meddraCode rdf:type owl:DatatypeProperty ;
+    rdfs:domain :AdverseDrugReaction ;
+    rdfs:range xsd:string ;
+    rdfs:label "MedDRA code"@en .
+
+:icdCode rdf:type owl:DatatypeProperty ;
+    rdfs:domain :AdverseDrugReaction ;
+    rdfs:range xsd:string ;
+    rdfs:label "ICD code"@en .
+
+:frequency rdf:type owl:DatatypeProperty ;
+    rdfs:domain :DrugAdrOccurrence ;
+    rdfs:range xsd:string ;
+    rdfs:label "frequency"@en .
+
+:soc rdf:type owl:DatatypeProperty ;
+    rdfs:domain :DrugAdrOccurrence ;
+    rdfs:range xsd:string ;
+    rdfs:label "system organ class"@en .
+
+:sourceUrl rdf:type owl:DatatypeProperty ;
+    rdfs:domain :SmPCDocument ;
+    rdfs:range xsd:string ;
+    rdfs:label "source URL"@en .

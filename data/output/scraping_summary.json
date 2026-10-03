@@ -1,0 +1,22 @@
+{
+  "total_rows": 10368,
+  "attempted_requests": 9862,
+  "status_counts": {
+    "SKIPPED_EXISTS": 506,
+    "HTTP_404": 325,
+    "SUCCESS": 9537
+  },
+  "http_status_counts": {
+    "404": 325,
+    "200": 9537
+  },
+  "error_type_counts": {},
+  "attempt_count_distribution": {
+    "0": 506,
+    "1": 9862
+  },
+  "success_rate_attempted_percent": 96.7,
+  "error_rate_attempted_percent": 3.3,
+  "avg_duration_ms": 395.11,
+  "max_duration_ms": 3458
+}

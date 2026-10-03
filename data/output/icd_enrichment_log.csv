@@ -1,0 +1,730 @@
+adr_term,meddra_code,icd_code_new,source
+hypertriglyceridaemia,10020869,UNKNOWN,crosswalk
+arterial thrombosis limb,10003180,UNKNOWN,crosswalk
+musculoskeletal pain,10028391,UNKNOWN,crosswalk
+gynaecomastia,10018800,N62,crosswalk
+blood urea increased,10005851,UNKNOWN,crosswalk
+blood creatinine increased,10005483,UNKNOWN,crosswalk
+epidermal growth factor receptor decreased,10065124,UNKNOWN,crosswalk
+blood glucose increased,10005557,UNKNOWN,crosswalk
+abnormal thinking,10000182,UNKNOWN,crosswalk
+euphoric mood,10015535,UNKNOWN,crosswalk
+disturbance in attention,10013496,UNKNOWN,crosswalk
+dysgeusia,10013911,R43.2,crosswalk
+hot flush,10060800,UNKNOWN,crosswalk
+blood pressure decreased,10005734,I95,crosswalk
+blood pressure increased,10005750,UNKNOWN,crosswalk
+rhinorrhoea,10039101,UNKNOWN,crosswalk
+yawning,10048232,UNKNOWN,crosswalk
+central sleep apnoea syndrome,10007975,UNKNOWN,crosswalk
+hepatic enzymes increased,10019662,UNKNOWN,crosswalk
+biliary colic,10004663,UNKNOWN,crosswalk
+muscle twitching,10028347,R25.3,crosswalk
+micturition urgency,10027566,R39.15,crosswalk
+urinary retention,10046555,R33,crosswalk
+peripheral oedema,10034611,UNKNOWN,crosswalk
+weight increased,10047899,UNKNOWN,crosswalk
+increased appetite,10021654,UNKNOWN,crosswalk
+decreased activity,10011953,UNKNOWN,crosswalk
+psychomotor hyperactivity,10037211,UNKNOWN,crosswalk
+perception disturbances,10082213,UNKNOWN,crosswalk
+concentration impaired,10010249,UNKNOWN,crosswalk
+involuntary muscle contractions,10028293,UNKNOWN,crosswalk
+abnormal coordination,10010947,R27.9,crosswalk
+hyperalgesia,10020573,UNKNOWN,crosswalk
+vasodilatation,10047141,UNKNOWN,crosswalk
+mouth ulceration,10028034,UNKNOWN,crosswalk
+gingival bleeding,10018276,UNKNOWN,crosswalk
+sphincter of oddi dysfunction,10066424,UNKNOWN,crosswalk
+drug withdrawal syndrome neonatal,10013756,P96.1,crosswalk
+drug tolerance,10052804,UNKNOWN,crosswalk
+sleep attacks,10040981,UNKNOWN,crosswalk
+local irritation,10024771,UNKNOWN,crosswalk
+renal dysfunction,10050335,N25,crosswalk
+motor polyneuropathy,10078252,UNKNOWN,crosswalk
+gingival hyperplasia,10018283,UNKNOWN,crosswalk
+hepatic function abnormal,10019670,UNKNOWN,crosswalk
+allergic rashes,10001717,UNKNOWN,crosswalk
+muscle cramps,10028295,UNKNOWN,crosswalk
+menstrual disturbances,10027329,UNKNOWN,crosswalk
+weight increase,10047898,UNKNOWN,crosswalk
+microangiopathic haemolytic anaemia,10027527,D59.4,crosswalk
+psychoses,10011717,F29,crosswalk
+dry eyes,10013778,UNKNOWN,crosswalk
+ankle oedema,10002546,UNKNOWN,crosswalk
+raised liver function tests,10048557,UNKNOWN,crosswalk
+photosensitivity reactions,10034972,UNKNOWN,crosswalk
+exacerbation of psoriasis,10015581,UNKNOWN,crosswalk
+reversible alopecia,10001763,UNKNOWN,crosswalk
+difficulty in micturition,10012793,R30.0,crosswalk
+acute retention of urine,10001055,UNKNOWN,crosswalk
+nipple pain,10029421,UNKNOWN,crosswalk
+raynaud's phenomenon of the nipple,10085324,UNKNOWN,crosswalk
+bone marrow depression,10005986,D61.9,crosswalk
+affect lability,10054196,UNKNOWN,crosswalk
+vision blurred,10047513,UNKNOWN,crosswalk
+osteopenia,10049088,UNKNOWN,crosswalk
+blood alkaline phosphatase increased,10059570,UNKNOWN,crosswalk
+auricular swelling,10003800,UNKNOWN,crosswalk
+bullous conditions,10006555,UNKNOWN,crosswalk
+decreased appetite,10061428,UNKNOWN,crosswalk
+abnormal behaviour,10061422,UNKNOWN,crosswalk
+tactile hallucinations,10019074,UNKNOWN,crosswalk
+mood altered,10027940,R45.86,crosswalk
+mood swings,10027951,R45.86,crosswalk
+hypervigilance,10048533,UNKNOWN,crosswalk
+libido disorder,10061221,UNKNOWN,crosswalk
+dermatillomania,10065701,UNKNOWN,crosswalk
+completed suicide,10010144,UNKNOWN,crosswalk
+logorrhoea,10024796,UNKNOWN,crosswalk
+reversible ischaemic neurological deficit,10050496,UNKNOWN,crosswalk
+cerebrovascular accidents,10008190,I63.9,crosswalk
+grand mal convulsions,10010918,UNKNOWN,crosswalk
+dysphemia,10054964,UNKNOWN,crosswalk
+blurred vision,10005886,UNKNOWN,crosswalk
+increased intraocular pressure,10021667,UNKNOWN,crosswalk
+ventricular extrasystoles,10047289,I49.3,crosswalk
+peripheral coldness,10034568,UNKNOWN,crosswalk
+pharyngolaryngeal pain,10034844,UNKNOWN,crosswalk
+stomach discomfort,10042101,UNKNOWN,crosswalk
+macular rash,10025418,UNKNOWN,crosswalk
+fixed drug eruption,10016740,UNKNOWN,crosswalk
+trismus,10044684,UNKNOWN,crosswalk
+chest discomfort,10008469,UNKNOWN,crosswalk
+hepatic enzyme increased,10060795,UNKNOWN,crosswalk
+blood bilirubin increased,10005364,UNKNOWN,crosswalk
+platelet count decreased,10035528,UNKNOWN,crosswalk
+white blood count abnormal,10047940,UNKNOWN,crosswalk
+oral discomfort,10030973,UNKNOWN,crosswalk
+salivary hypersecretion,10039424,K11.7,crosswalk
+maculopapular rash,10025424,UNKNOWN,crosswalk
+feeling hot,10016334,UNKNOWN,crosswalk
+feeling abnormal,10016322,UNKNOWN,crosswalk
+psoriasis aggravation,10037154,UNKNOWN,crosswalk
+oedema peripheral,10030124,UNKNOWN,crosswalk
+burning sensation,10006784,UNKNOWN,crosswalk
+decreased haemoglobin,10056184,UNKNOWN,crosswalk
+extrapyramidal symptoms,10015835,UNKNOWN,crosswalk
+decreased neutrophil count,10029366,UNKNOWN,crosswalk
+eosinophils increased,10014945,UNKNOWN,crosswalk
+qt prolongation,10037705,UNKNOWN,crosswalk
+venous thromboembolism,10066899,UNKNOWN,crosswalk
+cutaneous vasculitis,10011686,L95.9,crosswalk
+breast swelling,10006312,UNKNOWN,crosswalk
+menstrual disorder,10027327,UNKNOWN,crosswalk
+euphoria,10015533,UNKNOWN,crosswalk
+thinking disturbances,10043434,UNKNOWN,crosswalk
+allodynia,10053552,UNKNOWN,crosswalk
+sleep apnoea syndrome,10040979,G47.3,crosswalk
+facial flushing,10016046,UNKNOWN,crosswalk
+cough decreased,10011225,UNKNOWN,crosswalk
+taste perversion,10043137,R43.2,crosswalk
+increased hepatic enzymes,10019662,UNKNOWN,crosswalk
+biliary pain,10004670,UNKNOWN,crosswalk
+ureteric spasm,10051958,UNKNOWN,crosswalk
+influenza like illness,10022004,UNKNOWN,crosswalk
+hepatic dysfunction,10019657,UNKNOWN,crosswalk
+gastrointestinal bleeding,10017936,K92.2,crosswalk
+arterial thrombotic events,20000082,UNKNOWN,crosswalk
+abnormal dreams,10000125,UNKNOWN,crosswalk
+ureteral spasm,10051958,UNKNOWN,crosswalk
+application site reaction,10003055,UNKNOWN,crosswalk
+aggravated asthma,10003554,UNKNOWN,crosswalk
+oropharyngeal candidiasis,10050346,UNKNOWN,crosswalk
+adrenal suppression,10001382,UNKNOWN,crosswalk
+"vision, blurred",10047513,UNKNOWN,crosswalk
+throat irritation,10043521,UNKNOWN,crosswalk
+oral mucosal irritation,10058474,UNKNOWN,crosswalk
+bone density decreased,10049470,UNKNOWN,crosswalk
+cerebrovascular accident,10008190,I63.9,crosswalk
+corneal erosion,10011013,UNKNOWN,crosswalk
+ocular itching,10030048,UNKNOWN,crosswalk
+eyelid irritation,10057385,UNKNOWN,crosswalk
+eyelid crusting,10052132,UNKNOWN,crosswalk
+transient myopia,10028652,UNKNOWN,crosswalk
+foreign body sensation in eye,10088943,UNKNOWN,crosswalk
+decreased corneal sensitivity,10011046,UNKNOWN,crosswalk
+refractive changes,10044400,UNKNOWN,crosswalk
+abnormal liver function tests,10000158,R94.5,crosswalk
+oral paraesthesia,10057372,UNKNOWN,crosswalk
+appetite increased,10021654,UNKNOWN,crosswalk
+elevated mood,10014483,UNKNOWN,crosswalk
+word finding difficulty,10067711,UNKNOWN,crosswalk
+libido increased,10024421,UNKNOWN,crosswalk
+anorgasmia,10002652,UNKNOWN,crosswalk
+suicidal behaviour,10065604,UNKNOWN,crosswalk
+coordination abnormal,10010947,R27.9,crosswalk
+memory impairment,10027175,UNKNOWN,crosswalk
+dizziness postural,10013578,UNKNOWN,crosswalk
+hyporeflexia,10021089,UNKNOWN,crosswalk
+ageusia,10001480,UNKNOWN,crosswalk
+hypokinesia,10021021,UNKNOWN,crosswalk
+dysgraphia,10058319,UNKNOWN,crosswalk
+eye swelling,10015967,UNKNOWN,crosswalk
+visual acuity reduced,10047531,UNKNOWN,crosswalk
+photopsia,10034962,UNKNOWN,crosswalk
+lacrimation increased,10023644,H04.2,crosswalk
+eye irritation,10015946,UNKNOWN,crosswalk
+oscillopsia,10052087,UNKNOWN,crosswalk
+altered visual depth perception,10053549,UNKNOWN,crosswalk
+visual brightness,10049155,UNKNOWN,crosswalk
+sinus arrhythmia,10040739,UNKNOWN,crosswalk
+hot flushes,10020408,UNKNOWN,crosswalk
+nasal dryness,10028740,UNKNOWN,crosswalk
+throat tightness,10043528,UNKNOWN,crosswalk
+gastrooesophageal reflux disease,10017885,K21.9,crosswalk
+hypoaesthesia oral,10057371,UNKNOWN,crosswalk
+swollen tongue,10042727,UNKNOWN,crosswalk
+rash papular,10037876,UNKNOWN,crosswalk
+cold sweat,10009866,UNKNOWN,crosswalk
+muscle cramp,10028294,UNKNOWN,crosswalk
+joint swelling,10023232,UNKNOWN,crosswalk
+neck pain,10028836,M54.2,crosswalk
+muscle stiffness,10028339,UNKNOWN,crosswalk
+breast pain,10006298,N64.4,crosswalk
+breast discharge,10006223,N64.52,crosswalk
+breast enlargement,10006242,N62,crosswalk
+feeling drunk,10016330,UNKNOWN,crosswalk
+generalised oedema,10018092,R60.1,crosswalk
+face oedema,10016029,UNKNOWN,crosswalk
+chest tightness,10008492,UNKNOWN,crosswalk
+blood creatine phosphokinase increased,10005470,UNKNOWN,crosswalk
+blood potassium decreased,10005724,UNKNOWN,crosswalk
+qt-interval prolongation,10037703,UNKNOWN,crosswalk
+urinary hesitation,10046542,R39.11,crosswalk
+male genital pain,10025505,UNKNOWN,crosswalk
+appetite decreased,10061428,UNKNOWN,crosswalk
+early morning awakening,10014046,UNKNOWN,crosswalk
+aggressive behaviour,10001490,UNKNOWN,crosswalk
+poor quality sleep,10062519,UNKNOWN,crosswalk
+vertigo positional,10047348,UNKNOWN,crosswalk
+gastroesophageal reflux disease,10066874,K21.9,crosswalk
+oral mucosal blistering,10030995,UNKNOWN,crosswalk
+gastrointestinal upset,10018028,UNKNOWN,crosswalk
+hand dermatitis,10058898,UNKNOWN,crosswalk
+rash generalised,10037858,UNKNOWN,crosswalk
+rash pruritic,10037884,L28.2,crosswalk
+tongue edema,10043955,UNKNOWN,crosswalk
+pain in extremity,10033425,M79.6,crosswalk
+night cramps,10029408,UNKNOWN,crosswalk
+liver function test abnormal,10024690,R94.5,crosswalk
+blood electrolytes abnormal,10061014,UNKNOWN,crosswalk
+laboratory test,10059938,UNKNOWN,crosswalk
+red blood cell sedimentation rate increased,10049187,R70.0,crosswalk
+allergic skin reaction,10001729,UNKNOWN,crosswalk
+mood alterations,10027940,R45.86,crosswalk
+depression aggravated,10012379,UNKNOWN,crosswalk
+contact lens intolerance,10010804,UNKNOWN,crosswalk
+decreased night vision,10011974,UNKNOWN,crosswalk
+haemorrhagic diarrhoea,10019007,UNKNOWN,crosswalk
+dry throat,10013789,UNKNOWN,crosswalk
+transaminase increased,10044344,UNKNOWN,crosswalk
+rash erythematous,10037855,UNKNOWN,crosswalk
+localised exfoliation,10024772,UNKNOWN,crosswalk
+acne fulminans,10049141,UNKNOWN,crosswalk
+erythema (facial),10015212,UNKNOWN,crosswalk
+hair disorders,10019037,UNKNOWN,crosswalk
+photosensitivity reaction,10034972,UNKNOWN,crosswalk
+skin hyperpigmentation,10040865,UNKNOWN,crosswalk
+sweating increased,10042667,R61,crosswalk
+epiphyses premature fusion,10015078,UNKNOWN,crosswalk
+tendonitis,10043255,M77.9,crosswalk
+vulvovaginal dryness,10047791,UNKNOWN,crosswalk
+orgasm abnormal,10031085,F52.3,crosswalk
+genital hypoaesthesia,10068912,UNKNOWN,crosswalk
+blood triglycerides increased,10005839,UNKNOWN,crosswalk
+high density lipoprotein decreased,10020060,UNKNOWN,crosswalk
+blood cholesterol increased,10005425,UNKNOWN,crosswalk
+infusion site erythema,10048634,UNKNOWN,crosswalk
+infusion site pain,10053483,UNKNOWN,crosswalk
+generalised urticaria,10074035,UNKNOWN,crosswalk
+hives,10020197,L50,crosswalk
+glucosuria,10068405,R81,crosswalk
+increased alkaline phosphatase,10001679,UNKNOWN,crosswalk
+high gamma glutamyltransferase,10017691,UNKNOWN,crosswalk
+high uric acid,10050450,UNKNOWN,crosswalk
+increased total bilirubin,10056806,UNKNOWN,crosswalk
+increased body temperature,10005911,R50.9,crosswalk
+st segment depression,10041892,UNKNOWN,crosswalk
+sustained ventricular tachycardia,10060730,UNKNOWN,crosswalk
+non-sustained ventricular tachycardia,10060731,UNKNOWN,crosswalk
+av block,10003846,I44.3,crosswalk
+asystole,10003586,I46,crosswalk
+arteriospasm coronary,10003225,UNKNOWN,crosswalk
+abdominal discomfort,10000059,UNKNOWN,crosswalk
+metallic taste,10043135,UNKNOWN,crosswalk
+urinary urgency,10046593,R39.15,crosswalk
+injection site reactions,10022097,UNKNOWN,crosswalk
+throat discomfort,10081115,R07.0,crosswalk
+neck discomfort,10028831,UNKNOWN,crosswalk
+viral respiratory tract infection,10047482,UNKNOWN,crosswalk
+lymphopenia,10025327,D72.810,crosswalk
+macular oedema,10025415,UNKNOWN,crosswalk
+alanine aminotransferase increased,10001551,UNKNOWN,crosswalk
+pulmonary function test abnormal,10061602,R94.2,crosswalk
+transient bradycardia,10085625,UNKNOWN,crosswalk
+presyncope,10036653,UNKNOWN,crosswalk
+gingival disorder,10018280,UNKNOWN,crosswalk
+gastralgia,10064906,UNKNOWN,crosswalk
+aggravated convulsions,10010915,UNKNOWN,crosswalk
+hyperammonaemia,10020575,E72.20,crosswalk
+hypocarnitinaemia,10073952,UNKNOWN,crosswalk
+hyperandrogenism,10065597,UNKNOWN,crosswalk
+androgen increase,10002265,UNKNOWN,crosswalk
+anaemia macrocytic,10002064,UNKNOWN,crosswalk
+macrocytosis,10025382,UNKNOWN,crosswalk
+hair disorder,10019037,UNKNOWN,crosswalk
+abnormal hair texture,10019049,UNKNOWN,crosswalk
+hair colour changes,10019030,UNKNOWN,crosswalk
+abnormal hair growth,10000147,UNKNOWN,crosswalk
+polycystic ovaries,10036049,E28.2,crosswalk
+tubulointerstitial nephritis,10048302,N10-N16.9,crosswalk
+coagulation factors decreased,10009789,UNKNOWN,crosswalk
+abnormal coagulation tests,10063557,UNKNOWN,crosswalk
+severe hepatic events,20000007,UNKNOWN,crosswalk
+bone abnormalities,10005954,UNKNOWN,crosswalk
+hypophosphataemia,10021058,UNKNOWN,crosswalk
+thinking abnormal,10043431,UNKNOWN,crosswalk
+hepatic steatosis,10019708,UNKNOWN,crosswalk
+vesiculobullous rash,10047381,UNKNOWN,crosswalk
+pustular rash,10037576,UNKNOWN,crosswalk
+skin discolouration,10040829,UNKNOWN,crosswalk
+muscular weakness,10028372,UNKNOWN,crosswalk
+increased creatinine,10040233,UNKNOWN,crosswalk
+mucocutaneous candidiasis,10028080,UNKNOWN,crosswalk
+hypersensitivity vasculitis,10020764,M31.0,crosswalk
+jarisch-herxheimer reaction,10023125,UNKNOWN,crosswalk
+hyperkinesia,10020651,UNKNOWN,crosswalk
+drug-induced enterocolitis syndrome,10085361,UNKNOWN,crosswalk
+cholestatic jaundice,10008640,UNKNOWN,crosswalk
+linear iga disease,10024515,UNKNOWN,crosswalk
+kounis syndrome,10069167,UNKNOWN,crosswalk
+gastroesophageal reflux,10017924,UNKNOWN,crosswalk
+alt increased,10001845,UNKNOWN,crosswalk
+ggt increased,10056910,UNKNOWN,crosswalk
+dryness,10030974,K11.7,crosswalk
+psa increased,10037102,R97.2,crosswalk
+haematocrit increased,10018840,UNKNOWN,crosswalk
+haemoglobin increased,10018888,UNKNOWN,crosswalk
+urination impaired,10046601,UNKNOWN,crosswalk
+erection increased,10015120,UNKNOWN,crosswalk
+pitting oedema,10035076,UNKNOWN,crosswalk
+change of bowel habit,10008399,R19.4,crosswalk
+intestinal angioedema,10076229,UNKNOWN,crosswalk
+dermatitis bullous,10012441,L10-L14.9,crosswalk
+ankle swelling,10002553,UNKNOWN,crosswalk
+sensation of heaviness,10040000,UNKNOWN,crosswalk
+micturition disorder,10027561,UNKNOWN,crosswalk
+pollakiuria,10036018,R35.0,crosswalk
+renal failure and impairment,10038443,UNKNOWN,crosswalk
+non cardiac chest pain,10062501,UNKNOWN,crosswalk
+blood potassium increased,10005725,UNKNOWN,crosswalk
+hepatic eosinophilic infiltration,10064668,UNKNOWN,crosswalk
+obsessive-compulsive symptoms,10068758,UNKNOWN,crosswalk
+gingival hypertrophy,10018284,UNKNOWN,crosswalk
+serum transaminase increased,10040421,UNKNOWN,crosswalk
+electrocardiogram qt prolongation,10014387,UNKNOWN,crosswalk
+faecal impaction,10016087,K56.41,crosswalk
+acute-on-chronic renal failure,10000952,UNKNOWN,crosswalk
+laryngeal oedema,10023845,J38.4,crosswalk
+disturbance in consciousness,10013509,UNKNOWN,crosswalk
+cortical blindness (transient),10011166,UNKNOWN,crosswalk
+transient visual impairment,10058711,UNKNOWN,crosswalk
+eyelid oedema,10015993,H02.84,crosswalk
+ventricular hypokinesia,10050510,UNKNOWN,crosswalk
+conduction abnormalities,10029175,UNKNOWN,crosswalk
+pharyngeal oedema,10034829,J39.2,crosswalk
+non-cardiogenic pulmonary oedema,10029538,UNKNOWN,crosswalk
+pancreatitis aggravated,10048365,UNKNOWN,crosswalk
+salivary gland enlargement,10039408,K11.1,crosswalk
+acute generalised exanthematous pustulosis,10048799,UNKNOWN,crosswalk
+increased blood creatinine,10005483,UNKNOWN,crosswalk
+pain and discomfort,10033372,UNKNOWN,crosswalk
+feeling cold,10016326,UNKNOWN,crosswalk
+localised oedema,10048961,R60.0,crosswalk
+iodism,10022926,UNKNOWN,crosswalk
+anaphylactic/anaphylactoid shock,20000071,UNKNOWN,crosswalk
+shivering,10040558,UNKNOWN,crosswalk
+injection site reaction,10022095,UNKNOWN,crosswalk
+injection site pain,10022086,UNKNOWN,crosswalk
+heinz body anaemia,10002058,UNKNOWN,crosswalk
+hypoprothrombinaemia,10021085,D68.2,crosswalk
+pseudomononucleosis,10058008,UNKNOWN,crosswalk
+taste disorders,10043131,UNKNOWN,crosswalk
+smell disorders,20000046,UNKNOWN,crosswalk
+allergic myocarditis,10001715,UNKNOWN,crosswalk
+eosinophilic infiltration,10078757,UNKNOWN,crosswalk
+oropharyngeal pain,10068319,UNKNOWN,crosswalk
+hepatitis cholestatic,10019754,UNKNOWN,crosswalk
+toxic pustuloderma,10044246,UNKNOWN,crosswalk
+upper respiratory tract infection,10046306,J06.9,crosswalk
+granulocytopenia,10018687,UNKNOWN,crosswalk
+ear pain,10014020,H92.0,crosswalk
+aspartate aminotransferase increased,10003481,UNKNOWN,crosswalk
+creatinine clearance renal decreased,10011372,UNKNOWN,crosswalk
+respiratory tract infection viral,10062106,UNKNOWN,crosswalk
+viral upper respiratory tract infection,10047482,UNKNOWN,crosswalk
+atypical pneumonia,10003757,UNKNOWN,crosswalk
+pneumonia fungal,10061354,J17.2,crosswalk
+pneumonia necrotising,10055672,UNKNOWN,crosswalk
+influenza h1n1,10069767,UNKNOWN,crosswalk
+tumour lysis syndrome,10045170,E88.3,crosswalk
+neutrophil count decreased,10029366,UNKNOWN,crosswalk
+haemoglobin decreased,10018884,UNKNOWN,crosswalk
+red blood cell count decreased,10038153,UNKNOWN,crosswalk
+febrile neutropenia,10016288,UNKNOWN,crosswalk
+blood phosphorus decreased,10049471,UNKNOWN,crosswalk
+blood pressure systolic increased,10005760,UNKNOWN,crosswalk
+pulmonary arterial pressure increased,10037324,UNKNOWN,crosswalk
+gastrointestinal pain,10017999,UNKNOWN,crosswalk
+anal haemorrhage,10049555,UNKNOWN,crosswalk
+intestinal haemorrhage,10059175,K92.2,crosswalk
+lower gastrointestinal haemorrhage,10050953,UNKNOWN,crosswalk
+upper gastrointestinal haemorrhage,10046274,UNKNOWN,crosswalk
+hepatotoxicity,10019851,UNKNOWN,crosswalk
+liver function test increased,10077692,UNKNOWN,crosswalk
+transaminases increased,10054889,UNKNOWN,crosswalk
+drug-induced liver injury,10072268,UNKNOWN,crosswalk
+hepatocellular injury,10019837,UNKNOWN,crosswalk
+rash macular,10037867,UNKNOWN,crosswalk
+rash maculo‑papular,10037868,UNKNOWN,crosswalk
+exfoliative rash,10064579,UNKNOWN,crosswalk
+periorbital oedema,10034545,UNKNOWN,crosswalk
+periorbital swelling,10056647,UNKNOWN,crosswalk
+peripheral swelling,10048959,UNKNOWN,crosswalk
+swelling of eyelid,10042690,UNKNOWN,crosswalk
+lipase increased,10024574,UNKNOWN,crosswalk
+hyperlipasaemia,10067725,UNKNOWN,crosswalk
+alanine aminotransferase abnormal,10001547,UNKNOWN,crosswalk
+electrocardiogram qt prolonged,10014387,UNKNOWN,crosswalk
+amylase increased,10002016,UNKNOWN,crosswalk
+hyperamylasaemia,10062770,UNKNOWN,crosswalk
+gamma‑glutamyltransferase increased,10017693,UNKNOWN,crosswalk
+hyperbilirubinaemia,10020578,UNKNOWN,crosswalk
+bilirubin conjugated increased,10004685,UNKNOWN,crosswalk
+blood bilirubin unconjugated increased,10005370,UNKNOWN,crosswalk
+taste disorder,10082490,UNKNOWN,crosswalk
+liver enzyme abnormalities,10024677,UNKNOWN,crosswalk
+bullous dermatitis,10006556,L10-L14.9,crosswalk
+mouth oedema,10081715,UNKNOWN,crosswalk
+increased salivation,10021677,K11.7,crosswalk
+increased creatine kinase,10011336,UNKNOWN,crosswalk
+depressed level of consciousness,10012373,UNKNOWN,crosswalk
+coordination abnormality,10010947,R27.9,crosswalk
+bullous eruption,10006559,UNKNOWN,crosswalk
+blood prolactin increased*,10005780,UNKNOWN,crosswalk
+abnormal orgasm,10031085,F52.3,crosswalk
+coordination abnormal*,10010947,R27.9,crosswalk
+electrocardiogram qt prolonged*,10014387,UNKNOWN,crosswalk
+liver function test abnormal*,10024690,R94.5,crosswalk
+ejaculation disorder,10014326,UNKNOWN,crosswalk
+mucosal haemorrhage*,10061298,UNKNOWN,crosswalk
+oral herpes,10067152,UNKNOWN,crosswalk
+angio-oedema,10000672,UNKNOWN,crosswalk
+decreased appetite up to loss of appetite,0,UNKNOWN,freetext
+injuries from accidents,0,UNKNOWN,freetext
+altered mood and personality change,0,UNKNOWN,freetext
+"hepatic enzymes increased (alanine aminotransferase increased, gamma-glutamyltransferase increased)",0,UNKNOWN,freetext
+transient stinging and burning,0,UNKNOWN,freetext
+encephalopathy including posterior reversible encephalopathy syndrome (pres),0,UNKNOWN,freetext
+"signs and symptoms such as convulsions, confusion, disorientation, decreased responsiveness, agitation, insomnia, visual disturbances, cortical blindness, coma, paresis and cerebellar ataxia",0,UNKNOWN,freetext
+"optic disc oedema, including papilloedema, with possible visual impairment secondary to benign intracranial hypertension",0,UNKNOWN,freetext
+abdominal discomfort/pain,0,UNKNOWN,freetext
+"hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure",0,UNKNOWN,freetext
+"infections (viral, bacterial, fungal, parasitic)",0,UNKNOWN,freetext
+lymphomas or lymphoproliferative disorders and other malignancies,0,UNKNOWN,freetext
+positive antinuclear antibodies unassociated with disease,0,UNKNOWN,freetext
+"hypersensitivity (rash, pruritus, angioedema and dyspnoea)",0,UNKNOWN,freetext
+depressed mood and lethargy,0,UNKNOWN,freetext
+exacerbation of the symptoms of raynaud's syndrome,0,UNKNOWN,freetext
+increase of an existing intermittent claudication,0,UNKNOWN,freetext
+cold or cyanotic extremities,0,UNKNOWN,freetext
+jaundice (both hepatocellular and cholestatic),0,UNKNOWN,freetext
+tingling sensation in scalp,0,UNKNOWN,freetext
+reversible lichenoid rash,0,UNKNOWN,freetext
+paraesthesia of the extremities,0,UNKNOWN,freetext
+systemic lupus erythematous,0,UNKNOWN,freetext
+ejaculatory failure,0,UNKNOWN,freetext
+masking of the symptoms of thyrotoxicosis or hypoglycaemia,0,UNKNOWN,freetext
+inappropriate adh secretion like syndrome,0,UNKNOWN,freetext
+drug rash with eosinophilia and systemic symptoms (dress),0,UNKNOWN,freetext
+acute generalized exanthematous pustulosis (agep),0,UNKNOWN,freetext
+toxic epidermal necrolysis (lyell's syndrome),0,UNKNOWN,freetext
+decreased bone mineral density,0,UNKNOWN,freetext
+decrease in t4,0,UNKNOWN,freetext
+moderately reduced weight and height gain during prolonged use in children,0,UNKNOWN,freetext
+worsening of pre-existing tics or tourette's syndrome,0,UNKNOWN,freetext
+transient depressed mood,0,UNKNOWN,freetext
+thought disturbances,0,UNKNOWN,freetext
+choreo-athetoid movements,0,UNKNOWN,freetext
+difficulties in visual accommodation,0,UNKNOWN,freetext
+hepatic enzyme elevations,0,UNKNOWN,freetext
+erection increased and prolonged,0,UNKNOWN,freetext
+changes in blood pressure and heart rate,0,UNKNOWN,freetext
+"hypersensitivity / anaphylactoid reaction (e.g. shock*, hypotension, pharyngolaryngeal edema, urticaria, face edema, rhinitis, conjunctivitis, abdominal pain, hypoesthesia, sneezing, cough, pallor)",0,UNKNOWN,freetext
+"respiratory disorders (dyspnea*, respiratory distress)",0,UNKNOWN,freetext
+injection site reactions (various kinds)***,0,UNKNOWN,freetext
+delayed allergoid reactions,0,UNKNOWN,freetext
+hypotension (and effects related to hypotension),0,UNKNOWN,freetext
+agranulocytosis or pancytopenia,0,UNKNOWN,freetext
+haemoglobin decreased and haematocrit decreased,0,UNKNOWN,freetext
+leucopenia/neutropenia,0,UNKNOWN,freetext
+haemolytic anaemia in patients with a congenital deficiency of g-6pdh,0,UNKNOWN,freetext
+syndrome of inappropriate antidiuretic hormone secretion (siadh),0,UNKNOWN,freetext
+"hyperkalaemia, reversible on discontinuation",0,UNKNOWN,freetext
+"myocardial infarction, possibly secondary to excessive hypotension in high risk patients",0,UNKNOWN,freetext
+stroke possibly secondary to excessive hypotension in high-risk patients,0,UNKNOWN,freetext
+hepatitis either cytolitic or cholestatic,0,UNKNOWN,freetext
+"angioedema of face, extremities, lips, mucous membranes, tongue, glottis and/or larynx",0,UNKNOWN,freetext
+hyperhydrosis,0,UNKNOWN,freetext
+local sensitivity,0,UNKNOWN,freetext
+itching (pruritus),0,UNKNOWN,freetext
+withdrawal (discontinuation) symptoms,0,UNKNOWN,freetext
+elevations in serum triglyceride levels,0,UNKNOWN,freetext
+elevations in total cholesterol (predominantly ldl cholesterol),0,UNKNOWN,freetext
+decreases in hdl cholesterol,0,UNKNOWN,freetext
+severe cutaneous adverse reactions (scars),0,UNKNOWN,freetext
+stevens-johnson syndrome (sjs),0,UNKNOWN,freetext
+toxic epidermal necrolysis (ten),0,UNKNOWN,freetext
+drug reaction with eosinophilia and systemic symptoms (dress),0,UNKNOWN,freetext
+hypersensitivity (including allergic skin reactions),0,UNKNOWN,freetext
+decreases in total t4,0,UNKNOWN,freetext
+decreases in free t4,0,UNKNOWN,freetext
+decreases in total t3,0,UNKNOWN,freetext
+increases in tsh,0,UNKNOWN,freetext
+decreases in free t3,0,UNKNOWN,freetext
+blood glucose increased to hyper-glycaemic levels,0,UNKNOWN,freetext
+exacerbation of pre-existing diabetes,0,UNKNOWN,freetext
+abnormal dreams and nightmares,0,UNKNOWN,freetext
+suicidal ideation and suicidal behaviour,0,UNKNOWN,freetext
+somnambulism and related reactions such as sleep talking and sleep related eating disorder,0,UNKNOWN,freetext
+elevations in serum alanine aminotransferase (alt),0,UNKNOWN,freetext
+elevations in gamma-gt levels,0,UNKNOWN,freetext
+elevations in serum aspartate aminotransferase (ast),0,UNKNOWN,freetext
+elevations in blood creatine phosphorkinase,0,UNKNOWN,freetext
+exacerbation of pancreatitis,0,UNKNOWN,freetext
+drug withdrawal (abstinence) syndrome neonatal,0,UNKNOWN,freetext
+bullous reactions,0,UNKNOWN,freetext
+"erythema multiforme, toxic epidermal necrolysis (ten), stevens-johnson syndrome (sjs)",0,UNKNOWN,freetext
+non-specific pain,0,UNKNOWN,freetext
+"fracture of the hip, wrist or spine",0,UNKNOWN,freetext
+tubulointerstitial nephritis (with possible progression to renal failure),0,UNKNOWN,freetext
+serious skin reactions,0,UNKNOWN,freetext
+acute generalised exanthematous pustulosis (agep),0,UNKNOWN,freetext
+masking of symptoms of infection,0,UNKNOWN,freetext
+opioid tolerance,0,UNKNOWN,freetext
+opioid withdrawal syndrome,0,UNKNOWN,freetext
+drug reaction with eosinophilia and systemic symptoms (dress syndrome),0,UNKNOWN,freetext
+non-specific allergic reaction,0,UNKNOWN,freetext
+exfoliative and bullous dermatoses,0,UNKNOWN,freetext
+immediate and delayed hypersensitivity reactions,0,UNKNOWN,freetext
+signs and symptoms of systemic corticosteroid effects,0,UNKNOWN,freetext
+behavioural changes,0,UNKNOWN,freetext
+signs and symptoms of systemic allergic reactions,0,UNKNOWN,freetext
+signs and symptoms of allergic reactions,0,UNKNOWN,freetext
+increase in signs and symptoms of myasthenia gravis,0,UNKNOWN,freetext
+burning and stinging,0,UNKNOWN,freetext
+irritation including redness,0,UNKNOWN,freetext
+signs and symptoms of ocular irritation,0,UNKNOWN,freetext
+cold hands and feet,0,UNKNOWN,freetext
+asthenia/ fatigue,0,UNKNOWN,freetext
+severe neutropenia,0,UNKNOWN,freetext
+neutropaenia,0,D70,freetext
+peripheral vision loss,0,UNKNOWN,freetext
+increases in heart rate,0,UNKNOWN,freetext
+increases in systolic blood pressure,0,UNKNOWN,freetext
+increases in diastolic blood pressure,0,UNKNOWN,freetext
+suicide-related events,0,UNKNOWN,freetext
+raynaudʼs phenomenon,0,UNKNOWN,freetext
+abnormal/increased liver function tests,0,UNKNOWN,freetext
+pollakuria,0,UNKNOWN,freetext
+micturation urgency,0,UNKNOWN,freetext
+drowsiness/sleepiness,0,UNKNOWN,freetext
+dizziness/disorientation,0,UNKNOWN,freetext
+syncope (fainting),0,UNKNOWN,freetext
+edema of the oral mucosa,0,UNKNOWN,freetext
+gram positive (mucocutaneous) bacterial infection,0,UNKNOWN,freetext
+aggressive tendencies,0,UNKNOWN,freetext
+colour blindness (colour vision deficiencies),0,UNKNOWN,freetext
+skin fragility (risk of frictional trauma),0,UNKNOWN,freetext
+acne aggravated (acne flare),0,UNKNOWN,freetext
+calcinosis (calcification of ligaments and tendons),0,UNKNOWN,freetext
+reduced bone density,0,UNKNOWN,freetext
+sexual dysfunction including erectile dysfunction and decreased libido,0,UNKNOWN,freetext
+granulation tissue (increased formation of),0,UNKNOWN,freetext
+hypersensitivity or allergic reactions,0,UNKNOWN,freetext
+burning and stinging at the infusion site,0,UNKNOWN,freetext
+tightness of the chest,0,UNKNOWN,freetext
+severe anaphylaxis,0,UNKNOWN,freetext
+elevated prolactin,0,UNKNOWN,freetext
+triglyceride levels,0,UNKNOWN,freetext
+transient asymptomatic elevations of hepatic aminotransferases,0,UNKNOWN,freetext
+high creatine phosphokinase,0,UNKNOWN,freetext
+development or exacerbation of diabetes,0,UNKNOWN,freetext
+discontinuation symptoms,0,UNKNOWN,freetext
+qt c prolongation,0,UNKNOWN,freetext
+ventricular tachycardia/fibrillation,0,UNKNOWN,freetext
+"mild, transient anticholinergic effects",0,UNKNOWN,freetext
+gynecomastia/breast enlargement,0,UNKNOWN,freetext
+elevated plasma prolactin levels,0,UNKNOWN,freetext
+worsening of parkinsonian symptomatology,0,UNKNOWN,freetext
+discomfort in the leg,0,UNKNOWN,freetext
+discomfort in the arm,0,UNKNOWN,freetext
+discomfort in the back,0,UNKNOWN,freetext
+feeling of general discomfort,0,UNKNOWN,freetext
+nipple discomfort,0,UNKNOWN,freetext
+chest pain or pressure,0,UNKNOWN,freetext
+feeling of thoracic constriction/oppression,0,UNKNOWN,freetext
+jaw discomfort,0,UNKNOWN,freetext
+gamma-glutamyl transferase increased,0,UNKNOWN,freetext
+serious opportunistic infections,0,UNKNOWN,freetext
+excessive bradycardia,0,UNKNOWN,freetext
+hearing disturbances,0,UNKNOWN,freetext
+proarrythmia,0,UNKNOWN,freetext
+bradycardia (<50 bpm),0,UNKNOWN,freetext
+cold and cyanotic extremities,0,UNKNOWN,freetext
+increase in existing intermittent claudication,0,UNKNOWN,freetext
+congenital malformations and developmental disorders,0,UNKNOWN,freetext
+severe liver damage,0,UNKNOWN,freetext
+increased liver enzymes,0,UNKNOWN,freetext
+reversible parkinsonism,0,UNKNOWN,freetext
+reversible dementia,0,UNKNOWN,freetext
+reversible cerebral atrophy,0,UNKNOWN,freetext
+syndrome of inappropriate secretion of adh (siadh),0,UNKNOWN,freetext
+male pattern alopecia,0,UNKNOWN,freetext
+transient and/or dose related alopecia,0,UNKNOWN,freetext
+nail and nail bed disorders,0,UNKNOWN,freetext
+drug rash with eosinophilia and systemic symptoms (dress) syndrome,0,UNKNOWN,freetext
+reversible fanconi syndrome,0,UNKNOWN,freetext
+non-severe peripheral oedema,0,UNKNOWN,freetext
+bone mineral density decreased,0,UNKNOWN,freetext
+acquired pelger-huet anomaly,0,UNKNOWN,freetext
+severe skin reactions,0,UNKNOWN,freetext
+neuropsychiatric adverse reactions,0,UNKNOWN,freetext
+death by suicide,0,UNKNOWN,freetext
+psychosis-like behaviour,0,UNKNOWN,freetext
+proximal renal tubulopathy,0,UNKNOWN,freetext
+severe acute exacerbations of hepatitis,0,UNKNOWN,freetext
+cerebellar coordination and balance disturbances,0,UNKNOWN,freetext
+elevated amylase,0,UNKNOWN,freetext
+elevated serum lipase,0,UNKNOWN,freetext
+elevated aspartate aminotransferase (ast),0,UNKNOWN,freetext
+elevated alanine aminotransferase (alt),0,UNKNOWN,freetext
+elevated gamma- glutamyltransferase (ggt),0,UNKNOWN,freetext
+photoallergic dermatitis,0,UNKNOWN,freetext
+elevated creatine kinase,0,UNKNOWN,freetext
+reversible leucopenia (including severe neutropenia or agranulocytosis),0,UNKNOWN,freetext
+reversible thrombocytopenia,0,UNKNOWN,freetext
+prolongation of bleeding time,0,UNKNOWN,freetext
+severe allergic reactions,0,UNKNOWN,freetext
+antibiotic associated colitis (including pseudomembraneous colitis and haemorrhagic colitis),0,UNKNOWN,freetext
+a moderate rise in ast and/or alt,0,UNKNOWN,freetext
+bullous and exfoliative dermatitis,0,UNKNOWN,freetext
+crystalluria (including acute renal injury),0,UNKNOWN,freetext
+urinary retention (including feeling of residual urine; micturition disorder),0,UNKNOWN,freetext
+"application site reaction (including rash, erythema, pruritus, dermatitis, dryness, and skin irritation)",0,UNKNOWN,freetext
+blood triglycerides increased/hypertriglyceridaemia,0,UNKNOWN,freetext
+hot flushes (vasodilation),0,UNKNOWN,freetext
+balding (alopecia),0,UNKNOWN,freetext
+libido changes,0,UNKNOWN,freetext
+elevated haematocrit,0,UNKNOWN,freetext
+red blood cell count increased or elevated haemoglobin,0,UNKNOWN,freetext
+"electrolyte changes (retention of sodium, chloride, potassium, calcium, inorganic phosphate and water)",0,UNKNOWN,freetext
+jaundice and liver function test abnormalities,0,UNKNOWN,freetext
+facial oedema,0,UNKNOWN,freetext
+haemoglobin and in haematocrit decreased,0,UNKNOWN,freetext
+"thrombocytopenia, sometimes with purpura",0,UNKNOWN,freetext
+"arrhythmias (including bradycardia, ventricular tachycardia, and atrial fibrillation)",0,UNKNOWN,freetext
+"abdominal discomfort, abdominal pain upper",0,UNKNOWN,freetext
+"liver function test abnormal, including blood bilirubin increase",0,UNKNOWN,freetext
+"intrahepatic cholestasis, jaundice",0,UNKNOWN,freetext
+urticaria and other forms of rash,0,UNKNOWN,freetext
+quincke oedema,0,T78.3,freetext
+"discomfort, malaise",0,UNKNOWN,freetext
+increased bleeding tendency,0,UNKNOWN,freetext
+hypersensitivity reactions including anaphylaxis,0,UNKNOWN,freetext
+dream abnormalities including nightmares,0,UNKNOWN,freetext
+agitation including aggressive behaviour or hostility,0,UNKNOWN,freetext
+"psychomotor hyperactivity (including irritability, restlessness, tremor",0,UNKNOWN,freetext
+suicidal thinking and behaviour (suicidality),0,UNKNOWN,freetext
+paraesthesia/hypoesthesia,0,UNKNOWN,freetext
+churg-strauss syndrome (css),0,UNKNOWN,freetext
+"elevated levels of serum transaminases (alt, ast)",0,UNKNOWN,freetext
+"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)",0,UNKNOWN,freetext
+angiooedema,0,UNKNOWN,freetext
+muscular cramps,0,UNKNOWN,freetext
+asthenia/fatigue,0,UNKNOWN,freetext
+ejaculation disorders including retrograde ejaculation and ejaculation failure,0,UNKNOWN,freetext
+acute urinary retention,0,UNKNOWN,freetext
+anaphylactic or anaphylactoid shock,0,UNKNOWN,freetext
+hypersensitivity reaction followed by cardiac reactions (kounis' syndrome),0,UNKNOWN,freetext
+cardiac or cardio-respiratory arrest,0,UNKNOWN,freetext
+sjs-like syndrome,0,UNKNOWN,freetext
+sensory abnormalities including taste disturbance,0,UNKNOWN,freetext
+transient contrast-induced encephalopathy caused by extravasation of contrast media,0,UNKNOWN,freetext
+transient speech disorder,0,UNKNOWN,freetext
+abdominal pain/discomfort,0,UNKNOWN,freetext
+rash or drug eruption,0,UNKNOWN,freetext
+bullous or exfoliative dermatitis,0,UNKNOWN,freetext
+acute kidney injury or nephropathy toxic (cin),0,UNKNOWN,freetext
+shivering (chills),0,UNKNOWN,freetext
+administration site reactions including extravasation,0,UNKNOWN,freetext
+"asthenic conditions (e.g. malaise, fatigue)",0,UNKNOWN,freetext
+meningeal irritation giving photophobia and meningism,0,UNKNOWN,freetext
+frank chemical meningitis,0,UNKNOWN,freetext
+anaphylactic/anaphylactoid reactions,0,UNKNOWN,freetext
+anaphylactic/anaphylactoid reaction including life-threatening or fatal anaphylaxis,0,UNKNOWN,freetext
+transient hypothyroidism,0,UNKNOWN,freetext
+headache (may be severe and lasting),0,UNKNOWN,freetext
+methaemoglobinaemina,0,UNKNOWN,freetext
+gastric distress,0,UNKNOWN,freetext
+aggravation of ulcerative colitis,0,UNKNOWN,freetext
+epidermal necrolysis (lyell's syndrome),0,UNKNOWN,freetext
+photosensitvity,0,UNKNOWN,freetext
+reversible oligospermia,0,UNKNOWN,freetext
+facial edema,0,UNKNOWN,freetext
+yellow discoloration of skin and body fluids,0,UNKNOWN,freetext
+elevation of liver enzymes,0,UNKNOWN,freetext
+induction of autoantibodies,0,UNKNOWN,freetext
+hypersentivity,0,UNKNOWN,freetext
+brochospasm,0,UNKNOWN,freetext
+assorted skin disorders,0,UNKNOWN,freetext
+rashes of various types,0,UNKNOWN,freetext
+pruritis,0,UNKNOWN,freetext
+bullous dermatoses,0,UNKNOWN,freetext
+candida infections including oral candidiasis,0,UNKNOWN,freetext
+dysgeusia (taste disturbance),0,UNKNOWN,freetext
+abdominal distention,0,UNKNOWN,freetext
+"hypersensitivity reactions (anaphylaxis, angioneurotic oedema, bronchospasm)",0,UNKNOWN,freetext
+loss of appetite (anorexia),0,UNKNOWN,freetext
+reduced libido,0,UNKNOWN,freetext
+grand mal seizures (particularly in patients with impaired renal function),0,UNKNOWN,freetext
+atrioventricular block (with h 2 -receptor antagonists administered intravenously),0,UNKNOWN,freetext
+qt prolongation (especially in patients with impaired renal function),0,UNKNOWN,freetext
+"interstitial pneumonia, sometimes fatal",0,UNKNOWN,freetext
+nausea and/ or vomiting,0,UNKNOWN,freetext
+abdominal discomfort or distension,0,UNKNOWN,freetext
+stevens-johnson syndrome / toxic epidermal necrolysis (sometimes fatal),0,UNKNOWN,freetext
+chest tighness,0,UNKNOWN,freetext
+"increase in laboratory values (transaminases, gamma gt, alkaline phosphatase, bilirubin).",0,UNKNOWN,freetext
+increase in appetite,0,UNKNOWN,freetext
+"bone marrow depression (granulocytopenia, agranulocytosis, aplastic anaemia, thrombocytopenia)",0,UNKNOWN,freetext
+hyperprolactinemia (and related symptoms galactorrhea and gynecomastia),0,UNKNOWN,freetext
+"psychomotor restlessness (incl. akathisia, hyperkinesia)",0,UNKNOWN,freetext
+oral hypo-aesthesia,0,UNKNOWN,freetext
+elevations in serum transaminase activities,0,UNKNOWN,freetext
+convulsions (insults),0,UNKNOWN,freetext
+sweating (including night sweats),0,UNKNOWN,freetext
+pancytopaenia*,0,D61.81,freetext
+neutropaenia*,0,D70,freetext
+thrombocytopaenia*,0,UNKNOWN,freetext
+suicidal ideation and suicidal behaviours a,0,UNKNOWN,freetext
+aggression b,0,UNKNOWN,freetext
+dyskinaesia*,0,UNKNOWN,freetext
+neuroleptic malignant syndrome (nms)*,0,UNKNOWN,freetext
+tardive dyskinaesia*,0,UNKNOWN,freetext
+"accommodation disorder, including vision blurred",0,UNKNOWN,freetext
+stress cardiomyopathy (takotsubo cardiomyopathy)*,0,UNKNOWN,freetext
+hyperhidrosis* (including night sweats),0,UNKNOWN,freetext
+"urinary hesitation), urinary retention, pollakiuria*",0,UNKNOWN,freetext
+decrease in neutrophil count,0,UNKNOWN,freetext

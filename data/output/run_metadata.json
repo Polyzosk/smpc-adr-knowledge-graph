@@ -1,0 +1,22 @@
+{
+  "started_at": "2026-04-04T01:16:44",
+  "ended_at": "2026-04-04T18:52:51",
+  "limit": null,
+  "request_delay_seconds": 6,
+  "max_retries": 3,
+  "backoff_base_seconds": 2,
+  "total_ids_loaded": 10368,
+  "results": {
+    "success": 9537,
+    "http_404": 325,
+    "http_error": 0,
+    "request_error": 0,
+    "skipped_exists": 506
+  },
+  "output_dir": "data/raw",
+  "log_file": "data/output/scraping_log.csv",
+  "failed_retry_ids_file": "data/output/failed_ids_retry.txt",
+  "failed_404_ids_file": "data/output/failed_ids_404.txt",
+  "manifest_file": "data/output/dataset_manifest.csv",
+  "manifest_rows": 10043
+}

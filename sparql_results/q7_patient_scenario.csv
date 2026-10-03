@@ -1,0 +1,4 @@
+pid,drugLabel,atcCode,adrLabel,frequency,soc
+120,INSPRA 25 mg film-coated tablets.,C03DA04,dizziness,uncommon,Nervous System Disorders
+16018,"Ibuprofen 5% gel, Fenbid gel, Phorpain Gel, Flexigel, Ibuprofen Pain relief gel 5% w/w",M01AE01,,,
+10309,Lyrica 225 mg hard capsules,N02BF02,dizziness,very common,Nervous System Disorders

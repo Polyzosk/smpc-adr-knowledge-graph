@@ -1,0 +1,32 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw scraped data (large, third-party content)
+data/raw/
+*.html
+data/output/extracted_4_8_blocks/
+
+# Thesis drafts and personal notes (not part of the code)
+SamplePolyzos.pdf
+SampleThesisStructure.pdf
+ThesisPapadopoulosV4.5FINAL.pdf
+Ptychiaki_Polyzos_4172.pdf
+PROJECT_CONTEXT.md
+PROJECT_CONTEXT.txt
+prompt.txt
+report/
+*.docx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
