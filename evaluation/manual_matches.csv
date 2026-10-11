@@ -1,0 +1,45 @@
+product_id,gold_term,pred_term
+101979,dermatomal herpes zoster,herpes zoster
+1945,burning,Transient stinging and burning
+1945,stinging,Transient stinging and burning
+8137,Acute generalised exanthematous pustulosis,Acute generalised exanthematous pustulosis (AGEP)
+8137,gastrointestinal haemorrhage,Gastrointestinal bleeding
+8137,gastrointestinal perforation,Perforation
+8137,systemic symptoms (DRESS syndrome),Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome)
+8137,exacerbation of infection-related inflammation,Exacerbation of infections related inflammation
+8137,exacerbation of colitis,Exacerbation of ulcerative colitis
+7700,Drug dependence,Drug dependence (see section 4.4)
+7700,Hyperalgesia,Hyperalgesia (see section 4.4)
+13689,moderate rise in AST,A moderate rise in AST
+13689,moderate rise in ALT,A moderate rise in ALT
+13689,acute generalised exanthematous pustulosis,acute generalised exanthematous pustulosis (AGEP)
+13689,leucopenia,Reversible leucopenia
+13689,thrombocytopenia,reversible thrombocytopenia
+13689,prolongation of prothrombin time,prothrombin time
+13689,bullous dermatitis,bullous and exfoliative dermatitis
+13689,exfoliative dermatitis,bullous and exfoliative dermatitis
+11509,feeling of thoracic constriction,feeling of thoracic constriction/oppression
+11509,feeling of thoracic oppression,feeling of thoracic constriction/oppression
+14563,agitation,agitation including aggressive behaviour or hostility
+14563,aggressive behaviour,agitation including aggressive behaviour or hostility
+14563,hostility,agitation including aggressive behaviour or hostility
+14563,dream abnormalities,dream abnormalities including nightmares
+14563,nightmares,dream abnormalities including nightmares
+14563,hypersensitivity reactions,hypersensitivity reactions including anaphylaxis
+14563,anaphylaxis,hypersensitivity reactions including anaphylaxis
+14563,hepatitis,"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)"
+14563,cholestatic liver injury,"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)"
+14563,hepatocellular liver injury,"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)"
+14563,mixed-pattern liver injury,"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)"
+14563,psychomotor hyperactivity,psychomotor hyperactivity (including irritability, restlessness)
+14563,irritability,psychomotor hyperactivity (including irritability, restlessness)
+14563,restlessness,psychomotor hyperactivity (including irritability, restlessness)
+14563,elevated levels of serum transaminases,"elevated levels of serum transaminases (ALT, AST)"
+14563,myalgia,"myalgia, including muscular cramps"
+14563,muscular cramps,"myalgia, including muscular cramps"
+14563,asthenia,asthenia/fatigue
+14563,fatigue,asthenia/fatigue
+14563,paraesthesia,paraesthesia/hypoesthesia
+14563,hypoesthesia,paraesthesia/hypoesthesia
+14563,suicidal thinking,suicidal thinking and behaviour (suicidality)
+14563,suicidal behaviour,suicidal thinking and behaviour (suicidality)

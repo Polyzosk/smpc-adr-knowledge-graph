@@ -24,6 +24,11 @@ PROJECT_CONTEXT.txt
 prompt.txt
 report/
 *.docx
+Paratiriseis.*
+Cursor_prompt.md
+
+# Evaluation: full SmPC texts used during annotation (third-party content)
+evaluation/evaluation_sources*/
 
 # OS / editor
 .DS_Store

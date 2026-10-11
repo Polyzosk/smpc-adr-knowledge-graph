@@ -1,0 +1,368 @@
+﻿product_id,adr_term,frequency,soc
+1945,local irritation,rare,Not Known
+1945,transient stinging and burning,common,Eye Disorders
+6554,burning sensation,not known,Skin and Subcutaneous Tissue Disorders
+6554,dermatitis,not known,Skin and Subcutaneous Tissue Disorders
+6554,hearing loss,not known,Ear and Labyrinth Disorders
+6554,itching (pruritus),not known,Skin and Subcutaneous Tissue Disorders
+6554,local sensitivity,not known,Ear and Labyrinth Disorders
+6554,ototoxicity,not known,Ear and Labyrinth Disorders
+6554,stinging,not known,Skin and Subcutaneous Tissue Disorders
+6554,vestibular disorder,not known,Ear and Labyrinth Disorders
+6554,vision blurred,not known,Eye Disorders
+7700,abdominal pain,uncommon,Gastrointestinal Disorders
+7700,agitation,uncommon,Psychiatric Disorders
+7700,allodynia,rare,Nervous System Disorders
+7700,amenorrhoea,not known,Reproductive System and Breast Disorders
+7700,anaphylactic reaction,not known,Immune System Disorders
+7700,anaphylactoid reaction,not known,Immune System Disorders
+7700,anorexia,uncommon,Gastrointestinal Disorders
+7700,asthenia,uncommon,General Disorders and Administration Site Conditions
+7700,biliary pain,not known,Hepatobiliary Disorders
+7700,bradycardia,not known,Cardiac Disorders
+7700,bronchospasm,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+7700,confusion,uncommon,Psychiatric Disorders
+7700,constipation,common,Gastrointestinal Disorders
+7700,convulsions,rare,Nervous System Disorders
+7700,cough decreased,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+7700,decreased libido,not known,Reproductive System and Breast Disorders
+7700,dizziness,uncommon,Nervous System Disorders
+7700,drowsiness,common,Nervous System Disorders
+7700,drug dependence,uncommon,Psychiatric Disorders
+7700,drug tolerance,not known,General Disorders and Administration Site Conditions
+7700,drug withdrawal (abstinence) syndrome neonatal,not known,General Disorders and Administration Site Conditions
+7700,drug withdrawal syndrome,not known,General Disorders and Administration Site Conditions
+7700,dry mouth,uncommon,Gastrointestinal Disorders
+7700,dyspepsia,rare,Gastrointestinal Disorders
+7700,dysphoria,uncommon,Psychiatric Disorders
+7700,erectile dysfunction,not known,Reproductive System and Breast Disorders
+7700,euphoria,uncommon,Psychiatric Disorders
+7700,exacerbation of pancreatitis,not known,Hepatobiliary Disorders
+7700,facial flushing,not known,Vascular Disorders
+7700,fatigue,uncommon,General Disorders and Administration Site Conditions
+7700,hallucinations,uncommon,Psychiatric Disorders
+7700,headache,uncommon,Nervous System Disorders
+7700,hyperalgesia,rare,Nervous System Disorders
+7700,hyperhidrosis,uncommon,Nervous System Disorders
+7700,hypersensitivity,not known,Immune System Disorders
+7700,hypertension,not known,Vascular Disorders
+7700,hypertonia,rare,Nervous System Disorders
+7700,hypotension,not known,Vascular Disorders
+7700,ileus,rare,Gastrointestinal Disorders
+7700,increased hepatic enzymes,not known,Hepatobiliary Disorders
+7700,insomnia,uncommon,Psychiatric Disorders
+7700,involuntary muscle contractions,uncommon,Nervous System Disorders
+7700,malaise,uncommon,General Disorders and Administration Site Conditions
+7700,miosis,not known,Eye Disorders
+7700,mood altered,uncommon,Psychiatric Disorders
+7700,myoclonus,rare,Nervous System Disorders
+7700,nausea,common,Gastrointestinal Disorders
+7700,palpitations,not known,Cardiac Disorders
+7700,paraesthesia,rare,Nervous System Disorders
+7700,peripheral oedema,not known,General Disorders and Administration Site Conditions
+7700,pruritus,uncommon,General Disorders and Administration Site Conditions
+7700,pulmonary oedema,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+7700,rash,not known,Skin and Subcutaneous Tissue Disorders
+7700,respiratory depression,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+7700,sleep apnoea syndrome,rare,Nervous System Disorders
+7700,somnolence,uncommon,Nervous System Disorders
+7700,sphincter of oddi dysfunction,not known,Hepatobiliary Disorders
+7700,syncope,rare,Nervous System Disorders
+7700,tachycardia,not known,Cardiac Disorders
+7700,taste perversion,rare,Gastrointestinal Disorders
+7700,thinking disturbances,uncommon,Psychiatric Disorders
+7700,ureteric spasm,not known,Renal and Urinary Disorders
+7700,urinary retention,not known,Renal and Urinary Disorders
+7700,urticaria,not known,Skin and Subcutaneous Tissue Disorders
+7700,vertigo,not known,Ear and Labyrinth Disorders
+7700,visual impairment,not known,Eye Disorders
+7700,vomiting,common,Gastrointestinal Disorders
+8137,acute generalised exanthematous pustulosis (agep),not known,Skin and Subcutaneous Tissue Disorders
+8137,arterial thrombotic events,not known,Cardiac Disorders
+8137,aseptic meningitis,rare,Nervous System Disorders
+8137,bronchospasm,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+8137,exfoliative dermatitis,very rare,Skin and Subcutaneous Tissue Disorders
+8137,fluid retention,common,Cardiac Disorders
+8137,gastrointestinal bleeding,not known,Gastrointestinal Disorders
+8137,hepatic dysfunction,not known,Hepatobiliary Disorders
+8137,hypertension,common,Cardiac Disorders
+8137,hypokalaemia,not known,Metabolism and Nutrition Disorders
+8137,masking of symptoms of infection,not known,Infections and Infestations
+8137,myocardial infarction,not known,Cardiac Disorders
+8137,oedema,common,Cardiac Disorders
+8137,perforation,not known,Gastrointestinal Disorders
+8137,renal impairment,not known,Renal and Urinary Disorders
+8137,renal tubular acidosis,not known,Renal and Urinary Disorders
+8137,serious skin reactions,rare,Skin and Subcutaneous Tissue Disorders
+8137,stevens-johnson syndrome,very rare,Skin and Subcutaneous Tissue Disorders
+8137,stroke,not known,Cardiac Disorders
+8137,toxic epidermal necrolysis,very rare,Skin and Subcutaneous Tissue Disorders
+8137,ulceration,not known,Gastrointestinal Disorders
+10060,abdominal pain,common,Gastrointestinal Disorders
+10060,abnormal liver function tests,very common,Hepatobiliary Disorders
+10060,anaemia,uncommon,Blood and Lymphatic System Disorders
+10060,anaphylactoid reaction,uncommon,Immune System Disorders
+10060,angioedema,uncommon,Immune System Disorders
+10060,asthenia,very common,General Disorders and Administration Site Conditions
+10060,diarrhoea,common,Gastrointestinal Disorders
+10060,dizziness,uncommon,Nervous System Disorders
+10060,headache,uncommon,Nervous System Disorders
+10060,hepatitis,not known,Hepatobiliary Disorders
+10060,interstitial lung disease,uncommon,"Respiratory, Thoracic and Mediastinal Disorders"
+10060,nausea,very common,Gastrointestinal Disorders
+10060,oral paraesthesia,uncommon,Nervous System Disorders
+10060,pain,common,General Disorders and Administration Site Conditions
+10060,pancreatitis,uncommon,Gastrointestinal Disorders
+10060,rash,uncommon,Skin and Subcutaneous Tissue Disorders
+10060,severe neutropenia,uncommon,Blood and Lymphatic System Disorders
+10060,somnolence,uncommon,Nervous System Disorders
+10060,tachycardia,uncommon,Cardiac Disorders
+10060,vomiting,common,Gastrointestinal Disorders
+11509,abdominal discomfort,very common,Gastrointestinal Disorders
+11509,anaphylactic reaction,not known,Immune System Disorders
+11509,angioedema,not known,Immune System Disorders
+11509,apnea,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,arteriospasm coronary,not known,Cardiac Disorders
+11509,asystole,not known,Cardiac Disorders
+11509,atrial fibrillation,not known,Cardiac Disorders
+11509,av block,common,Cardiac Disorders
+11509,blurred vision,rare,Eye Disorders
+11509,bradycardia,uncommon,Cardiac Disorders
+11509,bronchospasm,rare,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,cardiac arrest,not known,Cardiac Disorders
+11509,chest pain or pressure,very common,General Disorders and Administration Site Conditions
+11509,convulsions,not known,Nervous System Disorders
+11509,discomfort in the arm,uncommon,General Disorders and Administration Site Conditions
+11509,discomfort in the back,uncommon,General Disorders and Administration Site Conditions
+11509,discomfort in the leg,uncommon,General Disorders and Administration Site Conditions
+11509,dizziness,common,Nervous System Disorders
+11509,drowsiness,rare,Nervous System Disorders
+11509,dry mouth,common,Gastrointestinal Disorders
+11509,dyspnea,very common,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,feeling of general discomfort,uncommon,General Disorders and Administration Site Conditions
+11509,feeling of thoracic constriction/oppression,very common,General Disorders and Administration Site Conditions
+11509,flushing,very common,Vascular Disorders
+11509,headache,very common,Nervous System Disorders
+11509,hypotension,common,Cardiac Disorders
+11509,injection site reactions,very rare,General Disorders and Administration Site Conditions
+11509,jaw discomfort,common,General Disorders and Administration Site Conditions
+11509,light-headedness,common,Nervous System Disorders
+11509,loss of consciousness,not known,Nervous System Disorders
+11509,metallic taste,uncommon,Gastrointestinal Disorders
+11509,myocardial infarction,not known,Cardiac Disorders
+11509,nasal congestion,rare,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,nausea,not known,Gastrointestinal Disorders
+11509,neck discomfort,common,General Disorders and Administration Site Conditions
+11509,nervousness,uncommon,Psychiatric Disorders
+11509,nipple discomfort,rare,Reproductive System and Breast Disorders
+11509,non-sustained ventricular tachycardia,common,Cardiac Disorders
+11509,pain,uncommon,General Disorders and Administration Site Conditions
+11509,paraesthesia,common,Nervous System Disorders
+11509,rash,not known,Immune System Disorders
+11509,respiratory arrest,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,respiratory failure,very rare,"Respiratory, Thoracic and Mediastinal Disorders"
+11509,sinus tachycardia,not known,Cardiac Disorders
+11509,skin reactions,not known,Immune System Disorders
+11509,st segment depression,common,Cardiac Disorders
+11509,sustained ventricular tachycardia,common,Cardiac Disorders
+11509,sweating,uncommon,General Disorders and Administration Site Conditions
+11509,syncope,not known,Nervous System Disorders
+11509,throat discomfort,common,General Disorders and Administration Site Conditions
+11509,tinnitus,rare,Ear and Labyrinth Disorders
+11509,tremor,rare,Nervous System Disorders
+11509,urinary urgency,rare,Renal and Urinary Disorders
+11509,urticaria,not known,Immune System Disorders
+11509,ventricular fibrillation,not known,Cardiac Disorders
+11509,vomiting,not known,Gastrointestinal Disorders
+11509,weakness,uncommon,General Disorders and Administration Site Conditions
+13689,a moderate rise in ast and/or alt,very rare,Hepatobiliary Disorders
+13689,acute generalised exanthematous pustulosis (agep),very rare,Skin and Subcutaneous Tissue Disorders
+13689,anaphylaxis,very rare,Immune System Disorders
+13689,angioneurotic oedema,very rare,Immune System Disorders
+13689,antibiotic associated colitis (including pseudomembraneous colitis and haemorrhagic colitis),very rare,Gastrointestinal Disorders
+13689,aseptic meningitis,not known,Nervous System Disorders
+13689,black hairy tongue,very rare,Gastrointestinal Disorders
+13689,bullous and exfoliative dermatitis,very rare,Skin and Subcutaneous Tissue Disorders
+13689,cholestatic jaundice,very rare,Hepatobiliary Disorders
+13689,convulsions,very rare,Nervous System Disorders
+13689,crystalluria (including acute renal injury),not known,Renal and Urinary Disorders
+13689,diarrhoea,common,Gastrointestinal Disorders
+13689,dizziness,very rare,Nervous System Disorders
+13689,drug reaction with eosinophilia and systemic symptoms (dress),very rare,Skin and Subcutaneous Tissue Disorders
+13689,drug-induced enterocolitis syndrome,not known,Gastrointestinal Disorders
+13689,erythema multiforme,very rare,Skin and Subcutaneous Tissue Disorders
+13689,haemolytic anaemia,very rare,Blood and Lymphatic System Disorders
+13689,hepatitis,very rare,Hepatobiliary Disorders
+13689,hyperkinesia,very rare,Nervous System Disorders
+13689,hypersensitivity vasculitis,very rare,Immune System Disorders
+13689,interstitial nephritis,very rare,Renal and Urinary Disorders
+13689,jarisch-herxheimer reaction,not known,Immune System Disorders
+13689,kounis syndrome,not known,Cardiac Disorders
+13689,linear iga disease,not known,Skin and Subcutaneous Tissue Disorders
+13689,mucocutaneous candidiasis,very rare,Infections and Infestations
+13689,nausea,common,Gastrointestinal Disorders
+13689,prolongation of bleeding time,very rare,Blood and Lymphatic System Disorders
+13689,prothrombin time,very rare,Blood and Lymphatic System Disorders
+13689,pruritus,uncommon,Skin and Subcutaneous Tissue Disorders
+13689,reversible leucopenia (including severe neutropenia or agranulocytosis),very rare,Blood and Lymphatic System Disorders
+13689,reversible thrombocytopenia,very rare,Blood and Lymphatic System Disorders
+13689,serum sickness,very rare,Immune System Disorders
+13689,severe allergic reactions,very rare,Immune System Disorders
+13689,skin rash,common,Skin and Subcutaneous Tissue Disorders
+13689,stevens-johnson syndrome,very rare,Skin and Subcutaneous Tissue Disorders
+13689,toxic epidermal necrolysis,very rare,Skin and Subcutaneous Tissue Disorders
+13689,urticaria,uncommon,Skin and Subcutaneous Tissue Disorders
+13689,vomiting,uncommon,Gastrointestinal Disorders
+14563,abdominal pain,common,Gastrointestinal Disorders
+14563,agitation including aggressive behaviour or hostility,uncommon,Psychiatric Disorders
+14563,angiooedema,rare,Skin and Subcutaneous Tissue Disorders
+14563,anxiety,uncommon,Psychiatric Disorders
+14563,arthralgia,uncommon,Musculoskeletal and Connective Tissue Disorders
+14563,asthenia/fatigue,uncommon,General Disorders and Administration Site Conditions
+14563,bruising,uncommon,Skin and Subcutaneous Tissue Disorders
+14563,churg-strauss syndrome (css),very rare,"Respiratory, Thoracic and Mediastinal Disorders"
+14563,depression,uncommon,Psychiatric Disorders
+14563,diarrhoea,common,Gastrointestinal Disorders
+14563,disorientation,very rare,Psychiatric Disorders
+14563,disturbance in attention,rare,Psychiatric Disorders
+14563,dizziness,uncommon,Nervous System Disorders
+14563,dream abnormalities including nightmares,uncommon,Psychiatric Disorders
+14563,drowsiness,uncommon,Nervous System Disorders
+14563,dry mouth,uncommon,Gastrointestinal Disorders
+14563,dyspepsia,uncommon,Gastrointestinal Disorders
+14563,dysphemia,very rare,Psychiatric Disorders
+14563,"elevated levels of serum transaminases (alt, ast)",common,Hepatobiliary Disorders
+14563,enuresis,uncommon,Renal and Urinary Disorders
+14563,epistaxis,uncommon,"Respiratory, Thoracic and Mediastinal Disorders"
+14563,erythema multiforme,very rare,Skin and Subcutaneous Tissue Disorders
+14563,erythema nodosum,very rare,Skin and Subcutaneous Tissue Disorders
+14563,hallucinations,very rare,Psychiatric Disorders
+14563,headache,common,Nervous System Disorders
+14563,hepatic eosinophilic infiltration,very rare,Immune System Disorders
+14563,"hepatitis (including cholestatic, hepatocellular and mixed-pattern liver injury)",very rare,Hepatobiliary Disorders
+14563,hypersensitivity reactions including anaphylaxis,uncommon,Immune System Disorders
+14563,increased bleeding tendency,rare,Blood and Lymphatic System Disorders
+14563,insomnia,uncommon,Psychiatric Disorders
+14563,malaise,uncommon,General Disorders and Administration Site Conditions
+14563,memory impairment,rare,Psychiatric Disorders
+14563,muscular cramps,uncommon,Musculoskeletal and Connective Tissue Disorders
+14563,myalgia,uncommon,Musculoskeletal and Connective Tissue Disorders
+14563,nausea,common,Gastrointestinal Disorders
+14563,obsessive-compulsive symptoms,very rare,Psychiatric Disorders
+14563,oedema,uncommon,General Disorders and Administration Site Conditions
+14563,palpitations,rare,Cardiac Disorders
+14563,paraesthesia/hypoesthesia,uncommon,Nervous System Disorders
+14563,pruritus,uncommon,Skin and Subcutaneous Tissue Disorders
+14563,"psychomotor hyperactivity (including irritability, restlessness, tremor",uncommon,Psychiatric Disorders
+14563,pulmonary eosinophilia,very rare,"Respiratory, Thoracic and Mediastinal Disorders"
+14563,pyrexia,common,General Disorders and Administration Site Conditions
+14563,rash,common,Skin and Subcutaneous Tissue Disorders
+14563,seizure,uncommon,Nervous System Disorders
+14563,somnambulism,uncommon,Psychiatric Disorders
+14563,suicidal thinking and behaviour (suicidality),very rare,Psychiatric Disorders
+14563,thrombocytopenia,very rare,Blood and Lymphatic System Disorders
+14563,tic,rare,Psychiatric Disorders
+14563,upper respiratory infection,very common,Infections and Infestations
+14563,urticaria,uncommon,Skin and Subcutaneous Tissue Disorders
+14563,vomiting,common,Gastrointestinal Disorders
+15886,abdominal pain,common,Gastrointestinal Disorders
+15886,aggravation of ulcerative colitis,not known,Gastrointestinal Disorders
+15886,agranulocytosis,not known,Blood and Lymphatic System Disorders
+15886,allergic myocarditis,not known,Cardiac Disorders
+15886,alopecia,uncommon,Skin and Subcutaneous Tissue Disorders
+15886,anaphylaxis,not known,Immune System Disorders
+15886,angioedema,not known,Skin and Subcutaneous Tissue Disorders
+15886,aplastic anaemia,not known,Blood and Lymphatic System Disorders
+15886,arthralgia,common,Musculoskeletal and Connective Tissue Disorders
+15886,aseptic meningitis,not known,Infections and Infestations
+15886,ataxia,not known,Nervous System Disorders
+15886,cholestasis,not known,Hepatobiliary Disorders
+15886,convulsions,uncommon,Nervous System Disorders
+15886,cough,common,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,crystalluria,not known,Renal and Urinary Disorders
+15886,cyanosis,not known,Cardiac Disorders
+15886,depression,uncommon,Psychiatric Disorders
+15886,diarrhoea,common,Gastrointestinal Disorders
+15886,dizziness,common,Nervous System Disorders
+15886,drug rash with eosinophilia and systemic symptoms (dress),not known,Skin and Subcutaneous Tissue Disorders
+15886,dyspnoea,uncommon,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,elevation of liver enzymes,uncommon,Investigations
+15886,encephalopathy,not known,Nervous System Disorders
+15886,eosinophilic infiltration,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,epidermal necrolysis (lyell's syndrome),not known,Skin and Subcutaneous Tissue Disorders
+15886,erythema,not known,Skin and Subcutaneous Tissue Disorders
+15886,exanthema,not known,Skin and Subcutaneous Tissue Disorders
+15886,exfoliative dermatitis,not known,Skin and Subcutaneous Tissue Disorders
+15886,facial edema,uncommon,General Disorders and Administration Site Conditions
+15886,fever,common,General Disorders and Administration Site Conditions
+15886,fibrosing alveolitis,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,folate deficiency,not known,Metabolism and Nutrition Disorders
+15886,gastric distress,very common,Gastrointestinal Disorders
+15886,haematuria,not known,Renal and Urinary Disorders
+15886,haemolytic anaemia,not known,Blood and Lymphatic System Disorders
+15886,hallucinations,not known,Psychiatric Disorders
+15886,headache,common,Nervous System Disorders
+15886,heinz body anaemia,not known,Blood and Lymphatic System Disorders
+15886,hepatic failure,not known,Hepatobiliary Disorders
+15886,hepatitis,not known,Hepatobiliary Disorders
+15886,hepatitis cholestatic,not known,Hepatobiliary Disorders
+15886,hepatitis fulminant,not known,Hepatobiliary Disorders
+15886,hypoprothrombinaemia,not known,Blood and Lymphatic System Disorders
+15886,induction of autoantibodies,not known,Investigations
+15886,insomnia,common,Psychiatric Disorders
+15886,interstitial lung disease,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,interstitial nephritis,not known,Renal and Urinary Disorders
+15886,jaundice,uncommon,Hepatobiliary Disorders
+15886,leukopenia,common,Blood and Lymphatic System Disorders
+15886,lichen planus,not known,Skin and Subcutaneous Tissue Disorders
+15886,lymphadenopathy,not known,Blood and Lymphatic System Disorders
+15886,macrocytosis,not known,Blood and Lymphatic System Disorders
+15886,megaloblastic anaemia,not known,Blood and Lymphatic System Disorders
+15886,methaemoglobinaemina,not known,Blood and Lymphatic System Disorders
+15886,nausea,very common,Gastrointestinal Disorders
+15886,nephrolithiasis,not known,Renal and Urinary Disorders
+15886,nephrotic syndrome,not known,Renal and Urinary Disorders
+15886,neutropenia,not known,Blood and Lymphatic System Disorders
+15886,oropharyngeal pain,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+15886,pallor,not known,Vascular Disorders
+15886,pancreatitis,not known,Gastrointestinal Disorders
+15886,pancytopenia,not known,Blood and Lymphatic System Disorders
+15886,parotitis,not known,Gastrointestinal Disorders
+15886,pericarditis,not known,Cardiac Disorders
+15886,peripheral neuropathy,not known,Nervous System Disorders
+15886,photosensitvity,not known,Skin and Subcutaneous Tissue Disorders
+15886,polyarteritis nodosa,not known,Immune System Disorders
+15886,proteinuria,common,Renal and Urinary Disorders
+15886,pruritus,common,Skin and Subcutaneous Tissue Disorders
+15886,pseudomembranous colitis,not known,Infections and Infestations
+15886,pseudomononucleosis,not known,Blood and Lymphatic System Disorders
+15886,purpura,common,Skin and Subcutaneous Tissue Disorders
+15886,reversible oligospermia,not known,Reproductive System and Breast Disorders
+15886,serum sickness,not known,Immune System Disorders
+15886,sjogren's syndrome,not known,Musculoskeletal and Connective Tissue Disorders
+15886,smell disorders,not known,Nervous System Disorders
+15886,stevens-johnson syndrome,not known,Skin and Subcutaneous Tissue Disorders
+15886,stomatitis,common,Gastrointestinal Disorders
+15886,system lupus erythematosus,not known,Musculoskeletal and Connective Tissue Disorders
+15886,taste disorders,common,Nervous System Disorders
+15886,thrombocytopenia,uncommon,Blood and Lymphatic System Disorders
+15886,tinnitus,common,Ear and Labyrinth Disorders
+15886,toxic pustuloderma,not known,Skin and Subcutaneous Tissue Disorders
+15886,urticaria,uncommon,Skin and Subcutaneous Tissue Disorders
+15886,vasculitis,uncommon,Vascular Disorders
+15886,vertigo,uncommon,Ear and Labyrinth Disorders
+15886,vomiting,common,Gastrointestinal Disorders
+15886,yellow discoloration of skin and body fluids,not known,General Disorders and Administration Site Conditions
+101979,alopecia,common,Skin and Subcutaneous Tissue Disorders
+101979,angio-oedema,rare,Immune System Disorders
+101979,decrease in neutrophil count,common,Blood and Lymphatic System Disorders
+101979,herpes zoster,common,Infections and Infestations
+101979,hypersensitivity*,common,Immune System Disorders
+101979,liver injury*,uncommon,Hepatobiliary Disorders
+101979,lymphopenia,very common,Blood and Lymphatic System Disorders
+101979,malignancies,not known,UNKNOWN
+101979,oral herpes,common,Infections and Infestations
+101979,pruritus,common,Immune System Disorders
+101979,rash,common,Immune System Disorders
+101979,tuberculosis,very rare,Infections and Infestations
+101979,urticaria,common,Immune System Disorders

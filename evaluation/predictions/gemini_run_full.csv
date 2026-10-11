@@ -1,0 +1,65 @@
+product_id,adr_term,frequency,soc
+8137,Haematopoietic disorders,very rare,Blood and Lymphatic System Disorders
+8137,anaemia,very rare,Blood and Lymphatic System Disorders
+8137,leucopenia,very rare,Blood and Lymphatic System Disorders
+8137,thrombocytopenia,very rare,Blood and Lymphatic System Disorders
+8137,pancytopenia,very rare,Blood and Lymphatic System Disorders
+8137,agranulocytosis,very rare,Blood and Lymphatic System Disorders
+8137,Hypersensitivity with urticaria and pruritus,uncommon,Immune System Disorders
+8137,Severe hypersensitivity reactions,very rare,Immune System Disorders
+8137,facial swelling,very rare,Immune System Disorders
+8137,tongue swelling,very rare,Immune System Disorders
+8137,throat swelling,very rare,Immune System Disorders
+8137,dyspnoea,very rare,Immune System Disorders
+8137,tachycardia,very rare,Immune System Disorders
+8137,hypotension,very rare,Immune System Disorders
+8137,anaphylaxis,very rare,Immune System Disorders
+8137,angioedema,very rare,Immune System Disorders
+8137,severe shock,very rare,Immune System Disorders
+8137,Headache,uncommon,Nervous System Disorders
+8137,Aseptic meningitis,very rare,Nervous System Disorders
+8137,Cardiac failure,not known,Cardiac Disorders
+8137,oedema,not known,Cardiac Disorders
+8137,Hypertension,not known,Vascular Disorders
+8137,Respiratory tract reactivity,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+8137,asthma,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+8137,bronchospasm,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+8137,dyspnoea,not known,"Respiratory, Thoracic and Mediastinal Disorders"
+8137,Abdominal pain,uncommon,Gastrointestinal Disorders
+8137,nausea,uncommon,Gastrointestinal Disorders
+8137,dyspepsia,uncommon,Gastrointestinal Disorders
+8137,Diarrhoea,rare,Gastrointestinal Disorders
+8137,flatulence,rare,Gastrointestinal Disorders
+8137,constipation,rare,Gastrointestinal Disorders
+8137,vomiting,rare,Gastrointestinal Disorders
+8137,Peptic ulcer,very rare,Gastrointestinal Disorders
+8137,gastrointestinal perforation,very rare,Gastrointestinal Disorders
+8137,gastrointestinal haemorrhage,very rare,Gastrointestinal Disorders
+8137,melaena,very rare,Gastrointestinal Disorders
+8137,haematemesis,very rare,Gastrointestinal Disorders
+8137,Mouth ulceration,very rare,Gastrointestinal Disorders
+8137,gastritis,very rare,Gastrointestinal Disorders
+8137,Exacerbation of colitis,very rare,Gastrointestinal Disorders
+8137,Exacerbation of Crohn's disease,very rare,Gastrointestinal Disorders
+8137,Liver disorder,very rare,Hepatobiliary Disorders
+8137,Skin rash,uncommon,Skin and Subcutaneous Tissue Disorders
+8137,Bullous reactions,very rare,Skin and Subcutaneous Tissue Disorders
+8137,Stevens-Johnson Syndrome,very rare,Skin and Subcutaneous Tissue Disorders
+8137,erythema multiforme,very rare,Skin and Subcutaneous Tissue Disorders
+8137,toxic epidermal necrolysis,very rare,Skin and Subcutaneous Tissue Disorders
+8137,Drug reaction with eosinophilia and systemic symptoms (DRESS syndrome),not known,Skin and Subcutaneous Tissue Disorders
+8137,Acute generalised exanthematous pustulosis (AGEP),not known,Skin and Subcutaneous Tissue Disorders
+8137,Photosensitivity reactions,not known,Skin and Subcutaneous Tissue Disorders
+8137,Decreased Appetite,not known,Metabolism and Nutrition Disorders
+8137,Hypokalaemia,not known,Metabolism and Nutrition Disorders
+8137,Acute renal failure,very rare,Renal and Urinary Disorders
+8137,papillary necrosis,very rare,Renal and Urinary Disorders
+8137,increased serum urea,very rare,Renal and Urinary Disorders
+8137,oedema,very rare,Renal and Urinary Disorders
+8137,Ureteric colic,not known,Renal and Urinary Disorders
+8137,dysuria,not known,Renal and Urinary Disorders
+8137,Renal tubular acidosis,not known,Renal and Urinary Disorders
+8137,Haemoglobin decreased,very rare,Investigations
+8137,Exacerbation of infections related inflammation,not known,Infections and infestations
+8137,severe skin infections,not known,Infections and infestations
+8137,soft-tissue complications,not known,Infections and infestations
