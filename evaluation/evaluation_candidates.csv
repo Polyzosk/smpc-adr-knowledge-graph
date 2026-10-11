@@ -1,0 +1,6 @@
+product_id,brand_name,clean_chars,gemini_adr_count,has_table,reason
+8137,"Nurofen for Children Strawberry Baby Nurofen for Children 3 months to 9 years Strawberry Nurofen for Children Cold, Pain and Fever Strawberry Flavour 100 mg/5 ml Oral Suspension",16948,21,True,"long section, exceeds the 8,000-char cut"
+6554,Gentisone HC Ear Drops. Gentamicin 0.3% w/v and Hydrocortisone acetate 1% w/v Ear Drops,1122,9,True,frequency table
+1945,"Aspire Allergy Relief 2% w/v eye drops, Solution (eye drops) Optrex Allergy 2%w/v Eye Drops, Solution (eye drops) EM Pharma Allergy Relief 2%w/v Eye Drops, Solution (eye drops)",520,2,False,"free text, no table"
+101979,Cladribine Merck 10 mg tablets,4485,14,True,small (<40 ADR)
+10060,Riluzole 50 mg film-coated tablets,2508,20,True,small (<40 ADR)

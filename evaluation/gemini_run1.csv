@@ -1,0 +1,74 @@
+product_id,adr_term,frequency,soc
+8137,gastrointestinal bleeding,not known,Gastrointestinal disorders
+8137,perforation,not known,Gastrointestinal disorders
+8137,Bronchospasm,not known,"Respiratory, thoracic and mediastinal disorders"
+8137,aseptic meningitis,not known,Nervous system disorders
+8137,fluid retention,not known,General disorders and administration site conditions
+8137,hypertension,not known,Vascular disorders
+8137,oedema,not known,General disorders and administration site conditions
+8137,arterial thrombotic events,not known,Vascular disorders
+8137,myocardial infarction,not known,Cardiac disorders
+8137,stroke,not known,Nervous system disorders
+8137,Renal impairment,not known,Renal and urinary disorders
+8137,Renal tubular acidosis,not known,Renal and urinary disorders
+8137,hypokalaemia,not known,Metabolism and nutrition disorders
+8137,Hepatic dysfunction,not known,Hepatobiliary disorders
+8137,impairment of female fertility,not known,Reproductive system and breast disorders
+8137,exacerbation of ulcerative colitis,not known,Gastrointestinal disorders
+8137,exacerbation of Crohn's disease,not known,Gastrointestinal disorders
+8137,ulceration,not known,Gastrointestinal disorders
+8137,exfoliative dermatitis,rare,Skin and subcutaneous tissue disorders
+8137,Stevens-Johnson syndrome,rare,Skin and subcutaneous tissue disorders
+8137,toxic epidermal necrolysis,rare,Skin and subcutaneous tissue disorders
+8137,Acute generalised exanthematous pustulosis (AGEP),not known,Skin and subcutaneous tissue disorders
+8137,skin rash,not known,Skin and subcutaneous tissue disorders
+8137,mucosal lesions,not known,Skin and subcutaneous tissue disorders
+8137,hypersensitivity,not known,Immune system disorders
+8137,masking of symptoms of infection,not known,Infections and infestations
+8137,worsening of bacterial community acquired pneumonia,not known,Infections and infestations
+8137,worsening of bacterial complications to varicella,not known,Infections and infestations
+8137,serious cutaneous and soft tissues infectious complications,not known,Infections and infestations
+6554,Local sensitivity,not known,Ear and labyrinth disorders
+6554,Ototoxicity,not known,Ear and labyrinth disorders
+6554,Vestibular disorder,not known,Ear and labyrinth disorders
+6554,Hearing loss,not known,Ear and labyrinth disorders
+6554,Burning sensation,not known,Skin and subcutaneous tissue disorders
+6554,Stinging,not known,Skin and subcutaneous tissue disorders
+6554,Itching (pruritus),not known,Skin and subcutaneous tissue disorders
+6554,Dermatitis,not known,Skin and subcutaneous tissue disorders
+6554,Vision blurred,not known,Eye disorders
+1945,Transient stinging and burning,not known,Eye disorders
+1945,Other symptoms of local irritation,rare,Eye disorders
+101979,Oral herpes,common,Infections and infestations
+101979,dermatomal herpes zoster,common,Infections and infestations
+101979,Tuberculosis,very rare,Infections and infestations
+101979,Lymphopenia,very common,Blood and lymphatic system disorders
+101979,Decrease in neutrophil count,common,Blood and lymphatic system disorders
+101979,Hypersensitivity,common,Immune system disorders
+101979,pruritus,common,Immune system disorders
+101979,urticaria,common,Immune system disorders
+101979,rash,common,Immune system disorders
+101979,angio-oedema,rare,Immune system disorders
+101979,Liver Injury,uncommon,Hepatobiliary disorders
+101979,Rash,common,Skin and subcutaneous tissue disorders
+101979,alopecia,common,Skin and subcutaneous tissue disorders
+10060,Anaemia,uncommon,Blood and lymphatic system disorders
+10060,Severe neutropenia,not known,Blood and lymphatic system disorders
+10060,Anaphylactoid reaction,uncommon,Immune system disorders
+10060,Angioedema,uncommon,Immune system disorders
+10060,Headache,common,Nervous system disorders
+10060,Dizziness,common,Nervous system disorders
+10060,Oral paraesthesia,common,Nervous system disorders
+10060,Somnolence,common,Nervous system disorders
+10060,Tachycardia,common,Cardiac disorders
+10060,Interstitial lung disease,uncommon,"Respiratory, thoracic and mediastinal disorders"
+10060,Nausea,very common,Gastrointestinal disorders
+10060,Diarrhoea,common,Gastrointestinal disorders
+10060,Abdominal pain,common,Gastrointestinal disorders
+10060,Vomiting,common,Gastrointestinal disorders
+10060,Pancreatitis,uncommon,Gastrointestinal disorders
+10060,Abnormal liver function tests,very common,Hepato-biliary disorders
+10060,Hepatitis,not known,Hepato-biliary disorders
+10060,Rash,not known,Skin and subcutaneous tissue disorders
+10060,Asthenia,very common,General disorders and administration site conditions
+10060,Pain,common,General disorders and administration site conditions
